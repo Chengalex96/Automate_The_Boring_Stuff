@@ -4,6 +4,8 @@ fruits = ['Apple', 'Banana', 'Pears', 'Pineapples']
 for i in range(len(fruits)):
     print('Index ' + str(i) + ' in fruits is ' + fruits[i])
 
+# range functions returns a list-like value
+
 cat = ['fat', 'orange', 'loud']
 size, color, disposition = cat
 size, color, disposition = 'skinny', 'black', 'quiet'
