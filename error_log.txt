@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "c:\Users\alex_\.vscode\Python\Automate the Boring Stuff\Automate_The_Boring_Stuff\RaiseAssert.py", line 26, in <module>
+    raise Exception('Err message')
+Exception: Err message
+Traceback (most recent call last):
+  File "c:\Users\alex_\.vscode\Python\Automate the Boring Stuff\Automate_The_Boring_Stuff\RaiseAssert.py", line 26, in <module>
+    raise Exception('Err message')
+Exception: Err message
+Traceback (most recent call last):
+  File "c:\Users\alex_\.vscode\Python\Automate the Boring Stuff\Automate_The_Boring_Stuff\RaiseAssert.py", line 26, in <module>
+    raise Exception('Err message')
+Exception: Err message
+Traceback (most recent call last):
+  File "c:\Users\alex_\.vscode\Python\Automate the Boring Stuff\Automate_The_Boring_Stuff\RaiseAssert.py", line 26, in <module>
+    raise Exception('Err message')
+Exception: Err message
+Traceback (most recent call last):
+  File "c:\Users\alex_\.vscode\Python\Automate the Boring Stuff\Automate_The_Boring_Stuff\RaiseAssert.py", line 26, in <module>
+    raise Exception('Err message')
+Exception: Err message
