@@ -1,0 +1,8 @@
+2024-07-31 16:28:05,293 - DEBUG - Start of Program
+2024-07-31 16:28:05,293 - DEBUG - Start of factorial (5)
+2024-07-31 16:28:05,293 - DEBUG - i is 1, total is 1
+2024-07-31 16:28:05,293 - DEBUG - i is 2, total is 2
+2024-07-31 16:28:05,293 - DEBUG - i is 3, total is 6
+2024-07-31 16:28:05,293 - DEBUG - i is 4, total is 24
+2024-07-31 16:28:05,293 - DEBUG - i is 5, total is 120
+2024-07-31 16:28:05,293 - DEBUG - Return value is 120
