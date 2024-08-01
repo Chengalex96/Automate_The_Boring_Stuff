@@ -1,0 +1,3237 @@
+[
+    {
+        "URL": "https://100r.co/site/about_us.html",
+        "title": "Hundred Rabbits is a small collective exploring the failability of modern tech (100r.co)",
+        "rank": "1"
+    },
+    {
+        "URL": "https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/",
+        "title": "Flux: Open-source text-to-image model with 12B parameters (fal.ai)",
+        "rank": "2"
+    },
+    {
+        "URL": "item?id=41129813",
+        "title": "Ask HN: Who is hiring? (August 2024)",
+        "rank": "3"
+    },
+    {
+        "URL": "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/",
+        "title": "How I got my laser eye injury (funraniumlabs.com)",
+        "rank": "4"
+    },
+    {
+        "URL": "https://aodyo.com/anyma-v/",
+        "title": "Show HN: Anyma V, a hybrid physical modelling virtual instrument (aodyo.com)",
+        "rank": "5"
+    },
+    {
+        "URL": "https://github.com/cgzirim/not-shazam",
+        "title": "I recreated Shazam's algorithm with Go (github.com/cgzirim)",
+        "rank": "6"
+    },
+    {
+        "URL": "https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers",
+        "title": "Breakthrough a step toward revealing hidden structure of prime numbers (science.org)",
+        "rank": "7"
+    },
+    {
+        "URL": "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats",
+        "title": "Threat actor abuses Cloudflare tunnels to deliver RATs (proofpoint.com)",
+        "rank": "8"
+    },
+    {
+        "URL": "https://www.science.org/doi/10.1126/sciadv.adm8470",
+        "title": "Space is a latent sequence: A theory of the hippocampus (science.org)",
+        "rank": "9"
+    },
+    {
+        "URL": "https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data",
+        "title": "Fathom AI Notetaker (YC W21) Is Hiring a Head of Data (Remote/US) (ycombinator.com)",
+        "rank": "10"
+    },
+    {
+        "URL": "https://stability.ai/news/introducing-stable-fast-3d",
+        "title": "Stable Fast 3D: Rapid 3D Asset Generation from Single Images (stability.ai)",
+        "rank": "11"
+    },
+    {
+        "URL": "https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/",
+        "title": "Parasites are everywhere. Why do so few researchers study them? (smithsonianmag.com)",
+        "rank": "12"
+    },
+    {
+        "URL": "https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers",
+        "title": "Introducing The Fellowship for Maintainers \u2013 Sovereign Tech Fund (sovereigntechfund.de)",
+        "rank": "13"
+    },
+    {
+        "URL": "https://github.blog/news-insights/product-news/introducing-github-models/",
+        "title": "GitHub Models: A new generation of AI engineers building on GitHub (github.blog)",
+        "rank": "14"
+    },
+    {
+        "URL": "https://newatlas.com/health-wellbeing/robot-dentist-world-first/",
+        "title": "Fully-automatic robot dentist performs first human procedure (newatlas.com)",
+        "rank": "15"
+    },
+    {
+        "URL": "https://allenpike.com/2013/unprofessionalism",
+        "title": "Unprofessionalism (2013) (allenpike.com)",
+        "rank": "16"
+    },
+    {
+        "URL": "https://github.com/pytorch/torchchat",
+        "title": "PyTorch \u2013 Torchchat: Chat with LLMs Everywhere (github.com/pytorch)",
+        "rank": "17"
+    },
+    {
+        "URL": "https://www.gauge.sh/blog/the-trouble-with-all",
+        "title": "The Trouble with __all__ (gauge.sh)",
+        "rank": "18"
+    },
+    {
+        "URL": "https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic",
+        "title": "Dunbar's Number Is Quadratic (2020) (falsifiable.com)",
+        "rank": "19"
+    },
+    {
+        "URL": "https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken",
+        "title": "A network engineer in search of greener pastures (cropp.blog)",
+        "rank": "20"
+    },
+    {
+        "URL": "https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/",
+        "title": "Don\u2019t Let Your Domain Name Become a \u201cSitting Duck\u201d (krebsonsecurity.com)",
+        "rank": "21"
+    },
+    {
+        "URL": "https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/",
+        "title": "The Nature of Consciousness (arstechnica.com)",
+        "rank": "22"
+    },
+    {
+        "URL": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html",
+        "title": "Just Disconnect the Internet (computer.rip)",
+        "rank": "23"
+    },
+    {
+        "URL": "https://boogiemath.org/notes/misc/notes-3.html",
+        "title": "Univariate Coppersmith Algorithm (boogiemath.org)",
+        "rank": "24"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2407.15908",
+        "title": "The Genomic Code: The genome instantiates a generative model of the organism (arxiv.org)",
+        "rank": "25"
+    },
+    {
+        "URL": "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
+        "title": "I prefer rST to Markdown (buttondown.email/hillelwayne)",
+        "rank": "26"
+    },
+    {
+        "URL": "https://github.com/Engine-Labs/engine-core",
+        "title": "Show HN: Engine Core \u2013 open-source LLM chat management and tool call framework (github.com/engine-labs)",
+        "rank": "27"
+    },
+    {
+        "URL": "https://github.com/sickcodes/Docker-OSX",
+        "title": "macOS in QEMU in Docker (github.com/sickcodes)",
+        "rank": "28"
+    },
+    {
+        "URL": "https://rateloaf.com",
+        "title": "Show HN: I am using AI to measure how well cats sit like bread (rateloaf.com)",
+        "rank": "29"
+    },
+    {
+        "URL": "https://github.com/nfoert/cardie",
+        "title": "Cardie \u2013 An open source business card designer and sharing platform (github.com/nfoert)",
+        "rank": "30"
+    },
+    {
+        "URL": "https://github.com/nfoert/cardie",
+        "title": "Cardie \u2013 An open source business card designer and sharing platform (github.com/nfoert)",
+        "rank": "31"
+    },
+    {
+        "URL": "https://www.embedding.io/",
+        "title": "Show HN: Turn any website into a knowledge base for LLMs (embedding.io)",
+        "rank": "32"
+    },
+    {
+        "URL": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/",
+        "title": "Amazon's exabyte-scale migration from Apache Spark to Ray on EC2 (amazon.com)",
+        "rank": "33"
+    },
+    {
+        "URL": "https://eos.org/science-updates/how-great-was-the-great-oxidation-event",
+        "title": "How great was the Great Oxidation Event? (eos.org)",
+        "rank": "34"
+    },
+    {
+        "URL": "https://ogiekako.vercel.app/blog/find_mkdir_tc",
+        "title": "`find` + `mkdir` is Turing complete (ogiekako.vercel.app)",
+        "rank": "35"
+    },
+    {
+        "URL": "https://www.nongnu.org/skribilo/",
+        "title": "Skribilo: The Document Programming Framework (nongnu.org)",
+        "rank": "36"
+    },
+    {
+        "URL": "https://snowflakeos.org/",
+        "title": "SnowflakeOS: Beginner friendly and GUI focused NixOS variant (snowflakeos.org)",
+        "rank": "37"
+    },
+    {
+        "URL": "https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html",
+        "title": "Is a 'slow' swimming pool impeding world records? (yahoo.com)",
+        "rank": "38"
+    },
+    {
+        "URL": "http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html",
+        "title": "After 10 years, Yelp gave my app 4 days (observationalhazard.com)",
+        "rank": "39"
+    },
+    {
+        "URL": "https://hackerone.com/coinbase/hacktivity",
+        "title": "Coinbase awarded a $500k bug bounty (hackerone.com)",
+        "rank": "40"
+    },
+    {
+        "URL": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/",
+        "title": "Crafting Interpreters with Rust: On Garbage Collection (tunglevo.com)",
+        "rank": "41"
+    },
+    {
+        "URL": "https://coldwar-ct.com/Home_Page_S1DO.html",
+        "title": "Construction of the AT&T Long Lines \"Cheshire\" underground site (coldwar-ct.com)",
+        "rank": "42"
+    },
+    {
+        "URL": "https://www.accessowl.io/scan",
+        "title": "Show HN: Shadow IT Scan \u2013 Uncover SaaS Apps, Users and Risky OAuth Scopes (accessowl.io)",
+        "rank": "43"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/08/01/nvidia_doj/",
+        "title": "Bring the hammer down on Nvidia, US progressive and antitrust orgs urge the Feds (theregister.com)",
+        "rank": "44"
+    },
+    {
+        "URL": "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency",
+        "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021) (ieee.org)",
+        "rank": "45"
+    },
+    {
+        "URL": "https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/",
+        "title": "Suspicious data pattern in recent Venezuelan election (columbia.edu)",
+        "rank": "46"
+    },
+    {
+        "URL": "https://www.bloomberg.com/opinion/articles/2024-08-01/venmo-zelle-cashapp-may-not-be-free-for-much-longer",
+        "title": "Venmo and Zelle May Not Be Free for Much Longer (bloomberg.com)",
+        "rank": "47"
+    },
+    {
+        "URL": "https://www.wheresyoured.at/to-serve-altman/",
+        "title": "How Does OpenAI Survive (wheresyoured.at)",
+        "rank": "48"
+    },
+    {
+        "URL": "https://polylith.gitbook.io/polylith",
+        "title": "Polylith (gitbook.io)",
+        "rank": "49"
+    },
+    {
+        "URL": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/",
+        "title": "Our audit of Homebrew (trailofbits.com)",
+        "rank": "50"
+    },
+    {
+        "URL": "https://www.foobar2000.org/",
+        "title": "Foobar2000 (foobar2000.org)",
+        "rank": "51"
+    },
+    {
+        "URL": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext",
+        "title": "Differences in cancer rates among adults born between 1920 and 1990 (thelancet.com)",
+        "rank": "52"
+    },
+    {
+        "URL": "https://cohost.org/prophet/post/7083950-functional-programmi",
+        "title": "Functional languages should be so much better at mutation than they are (cohost.org)",
+        "rank": "53"
+    },
+    {
+        "URL": "https://duckdb.org/2024/07/09/memory-management.html",
+        "title": "Memory Management in DuckDB (duckdb.org)",
+        "rank": "54"
+    },
+    {
+        "URL": "https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/",
+        "title": "Google uses AI to reduce stop-and-go traffic on your route (blog.google)",
+        "rank": "55"
+    },
+    {
+        "URL": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity",
+        "title": "If we want a shift to walking, we need to prioritize dignity (strongtowns.org)",
+        "rank": "56"
+    },
+    {
+        "URL": "https://lock.cmpxchg8b.com/slowterm.html",
+        "title": "Troubleshooting: Terminal Lag (cmpxchg8b.com)",
+        "rank": "57"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/08/01/germany_accuses_china_of_cyberattack/",
+        "title": "Germany names China as source of attack on government geospatial agency (theregister.com)",
+        "rank": "58"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/",
+        "title": "Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works (theregister.com)",
+        "rank": "59"
+    },
+    {
+        "URL": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization",
+        "title": "Creativity fundamentally comes from memorization? (shwin.co)",
+        "rank": "60"
+    },
+    {
+        "URL": "https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/",
+        "title": "Divers discover Roman mosaic (smithsonianmag.com)",
+        "rank": "61"
+    },
+    {
+        "URL": "https://mccd.space/posts/netbsd-review/",
+        "title": "I Like NetBSD, or Why Portability Matters (mccd.space)",
+        "rank": "62"
+    },
+    {
+        "URL": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/",
+        "title": "How I Computer in 2024 (jnsgr.uk)",
+        "rank": "63"
+    },
+    {
+        "URL": "https://siboehm.com/articles/22/Fast-MMM-on-CPU",
+        "title": "Fast Multidimensional Matrix Multiplication on CPU from Scratch (2022) (siboehm.com)",
+        "rank": "64"
+    },
+    {
+        "URL": "item?id=41119443",
+        "title": "Launch HN: Martin (YC S23) \u2013 Using LLMs to Make a Better Siri",
+        "rank": "65"
+    },
+    {
+        "URL": "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/",
+        "title": "Building static binaries with Go on Linux (thegreenplace.net)",
+        "rank": "66"
+    },
+    {
+        "URL": "https://github.com/facundoolano/ngtop",
+        "title": "Ngtop \u2013 Request analytics from the Nginx access logs (github.com/facundoolano)",
+        "rank": "67"
+    },
+    {
+        "URL": "https://porffor.dev/",
+        "title": "Porffor: A from-scratch experimental ahead-of-time JS engine (porffor.dev)",
+        "rank": "68"
+    },
+    {
+        "URL": "https://www.notebookcheck.net/Samsung-delivers-solid-state-battery-for-EVs-with-600-mile-range-as-it-teases-9-minute-charging-and-20-year-lifespan-tech.867768.0.html",
+        "title": "Samsung delivers solid-state battery for EVs with 600-mile range (notebookcheck.net)",
+        "rank": "69"
+    },
+    {
+        "URL": "https://nesslabs.com/levels-of-thinking",
+        "title": "How to Make Better Decisions with Second-Level Thinking (nesslabs.com)",
+        "rank": "70"
+    },
+    {
+        "URL": "https://github.com/mcastillof/FakeTraveler",
+        "title": "FakeTraveler: Fake where your phone is located (Mock location for Android) (github.com/mcastillof)",
+        "rank": "71"
+    },
+    {
+        "URL": "https://nymtech.net/",
+        "title": "Nym \u2013 the next generation of privacy infrastructure (nymtech.net)",
+        "rank": "72"
+    },
+    {
+        "URL": "https://blackforestlabs.ai/announcing-black-forest-labs/",
+        "title": "Black Forest Labs \u2013 FLUX.1 open weights SOTA text to image model (blackforestlabs.ai)",
+        "rank": "73"
+    },
+    {
+        "URL": "https://trayce.dev",
+        "title": "Show HN: Trayce \u2013 Network tab for Docker containers (trayce.dev)",
+        "rank": "74"
+    },
+    {
+        "URL": "http://microjs.com/",
+        "title": "Microjs (microjs.com)",
+        "rank": "75"
+    },
+    {
+        "URL": "https://152334H.github.io/blog/scaling-exponents/",
+        "title": "Calculating the cost of a Google DeepMind paper (152334h.github.io)",
+        "rank": "76"
+    },
+    {
+        "URL": "https://words.filippo.io/rustgo/",
+        "title": "Rustgo: Calling Rust from Go with near-zero overhead (2017) (filippo.io)",
+        "rank": "77"
+    },
+    {
+        "URL": "https://canarytokens.org/nest/",
+        "title": "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015) (canarytokens.org)",
+        "rank": "78"
+    },
+    {
+        "URL": "https://www.darpa.mil/program/translating-all-c-to-rust",
+        "title": "Translating All C to Rust (TRACTOR) (darpa.mil)",
+        "rank": "79"
+    },
+    {
+        "URL": "https://fermatslibrary.com/s/cargo-cult-science",
+        "title": "Cargo Cult Science (1974) (fermatslibrary.com)",
+        "rank": "80"
+    },
+    {
+        "URL": "https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730",
+        "title": "Metaphysical experiments probe our hidden assumptions about reality (quantamagazine.org)",
+        "rank": "81"
+    },
+    {
+        "URL": "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf",
+        "title": "The Hitchhiker's Guide to Logical Verification [pdf] (2023) (browncs1951x.github.io)",
+        "rank": "82"
+    },
+    {
+        "URL": "https://github.com/facebookresearch/segment-anything-2",
+        "title": "SAM 2: Segment Anything in Images and Videos (github.com/facebookresearch)",
+        "rank": "83"
+    },
+    {
+        "URL": "https://arstechnica.com/science/2024/08/karaoke-reveals-why-we-blush/",
+        "title": "Karaoke and MRI used to watch brains respond to embarrassment (arstechnica.com)",
+        "rank": "84"
+    },
+    {
+        "URL": "https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set",
+        "title": "Call of Duty: Warzone Caldera Data Set for Academic Use (activision.com)",
+        "rank": "85"
+    },
+    {
+        "URL": "https://github.com/ssoready/ssoready",
+        "title": "Launch HN: SSOReady (YC W24) \u2013 Making SAML SSO painless and open source (github.com/ssoready)",
+        "rank": "86"
+    },
+    {
+        "URL": "https://www.datagubbe.se/crt/",
+        "title": "The Effect of CRTs on Pixel Art (datagubbe.se)",
+        "rank": "87"
+    },
+    {
+        "URL": "item?id=41126817",
+        "title": "Ask HN: I can't grok front end development",
+        "rank": "88"
+    },
+    {
+        "URL": "https://jeremybelcher.co/jira-tickets-as-a-checklist/",
+        "title": "Jira Tickets as a Checklist (jeremybelcher.co)",
+        "rank": "89"
+    },
+    {
+        "URL": "https://techcrunch.com/2024/08/01/twitter-app-mac-store-2024/",
+        "title": "X (nee Twitter) Disappears from Mac App Store (techcrunch.com)",
+        "rank": "90"
+    },
+    {
+        "URL": "https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/",
+        "title": "Meta to pay Texas $1.4B for using facial recognition without users' permission (texastribune.org)",
+        "rank": "91"
+    },
+    {
+        "URL": "https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256",
+        "title": "Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG (jointerminus.medium.com)",
+        "rank": "92"
+    },
+    {
+        "URL": "https://fabiensanglard.net/snes_video/index.html",
+        "title": "Understanding the design of the the Super Nintendo video system (fabiensanglard.net)",
+        "rank": "93"
+    },
+    {
+        "URL": "item?id=41131195",
+        "title": "Ask HN: What Are You Working On? (August 2024)",
+        "rank": "94"
+    },
+    {
+        "URL": "https://www.noemamag.com/paradise-lost/",
+        "title": "The Myth of the Noble Savage (noemamag.com)",
+        "rank": "95"
+    },
+    {
+        "URL": "https://www.nytimes.com/live/2024/08/01/world/russia-prisoner-swap-us",
+        "title": "Russia Releases Evan Gershkovich in Sweeping Prisoner Swap (nytimes.com)",
+        "rank": "96"
+    },
+    {
+        "URL": "https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-says-weight-loss-drug-cut-heart-failure-risk-by-38-trial-2024-08-01/",
+        "title": "Lilly says weight loss drug cuts heart failure risk by 38% in trial (reuters.com)",
+        "rank": "97"
+    },
+    {
+        "URL": "https://www.zeynepevecen.dev/writing/music",
+        "title": "The lie of music discovery algorithms (zeynepevecen.dev)",
+        "rank": "98"
+    },
+    {
+        "URL": "https://fastht.ml/",
+        "title": "FastHTML \u2013 Modern web applications in pure Python (fastht.ml)",
+        "rank": "99"
+    },
+    {
+        "URL": "https://dynomight.substack.com/p/advice",
+        "title": "Why doesn't advice work? (dynomight.substack.com)",
+        "rank": "100"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2407.19813",
+        "title": "Baidu's Improving Retrieval Augmented Language Model with Self-Reasoning (arxiv.org)",
+        "rank": "101"
+    },
+    {
+        "URL": "https://www.bbc.com/news/articles/ckdgp7r5y11o",
+        "title": "Missing Henry VIII portrait found after random X post (bbc.com)",
+        "rank": "102"
+    },
+    {
+        "URL": "https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2",
+        "title": "Spikey Spheres (2010) (penzba.co.uk)",
+        "rank": "103"
+    },
+    {
+        "URL": "https://jstrieb.github.io/posts/c-reflection-zig/",
+        "title": "C Macro Reflection in Zig (jstrieb.github.io)",
+        "rank": "104"
+    },
+    {
+        "URL": "https://jakearchibald.com/2024/garbage-collection-and-closures/",
+        "title": "JavaScript garbage collection and closures (jakearchibald.com)",
+        "rank": "105"
+    },
+    {
+        "URL": "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/",
+        "title": "Scientists uncover the ancient origins of baobab trees (smithsonianmag.com)",
+        "rank": "106"
+    },
+    {
+        "URL": "https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/",
+        "title": "Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't (centauri-dreams.org)",
+        "rank": "107"
+    },
+    {
+        "URL": "https://rendley.com/",
+        "title": "Show HN: A video editing SDK that runs in the browser (rendley.com)",
+        "rank": "108"
+    },
+    {
+        "URL": "https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive",
+        "title": "New study simulates gravitational waves from failing warp drive (mpg.de)",
+        "rank": "109"
+    },
+    {
+        "URL": "https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true",
+        "title": "Show HN: Stempad \u2013 Fast Online Scientific Writing (stempad.io)",
+        "rank": "110"
+    },
+    {
+        "URL": "https://www.techdirt.com/2024/07/31/fbi-back-to-complaining-about-encryption-making-it-difficult-to-scrape-all-data-from-a-dead-persons-phone/",
+        "title": "FBI Complains About Encryption Making It Difficult to Scrape Dead Person's Phone (techdirt.com)",
+        "rank": "111"
+    },
+    {
+        "URL": "https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/",
+        "title": "Self hosting a website analytics at zero cost (andreagrandi.it)",
+        "rank": "112"
+    },
+    {
+        "URL": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/",
+        "title": "Swift Homomorphic Encryption (swift.org)",
+        "rank": "113"
+    },
+    {
+        "URL": "https://siliconfolklore.com/internet-history/",
+        "title": "Was the Internet created to survive a nuclear strike? (2022) (siliconfolklore.com)",
+        "rank": "114"
+    },
+    {
+        "URL": "https://www.ignytlearning.com/",
+        "title": "Use your interests to learn anything faster and remember better (ignytlearning.com)",
+        "rank": "115"
+    },
+    {
+        "URL": "https://www.stat.cmu.edu/~cshalizi/TALR/",
+        "title": "The Truth About Linear Regression (2015) (cmu.edu)",
+        "rank": "116"
+    },
+    {
+        "URL": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/",
+        "title": "Taking command of the Context Menu in macOS (gingerbeardman.com)",
+        "rank": "117"
+    },
+    {
+        "URL": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html",
+        "title": "Butterflies accumulate static electricity to attract pollen without contact (bristol.ac.uk)",
+        "rank": "118"
+    },
+    {
+        "URL": "https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/",
+        "title": "Baking Pi \u2013 Operating Systems Development (2012) (cam.ac.uk)",
+        "rank": "119"
+    },
+    {
+        "URL": "https://quint-lang.org/",
+        "title": "Quint (quint-lang.org)",
+        "rank": "120"
+    },
+    {
+        "URL": "https://www.digicert.com/support/certificate-revocation-incident",
+        "title": "DigiCert Revocation Incident (CNAME Domain Validation) (digicert.com)",
+        "rank": "121"
+    },
+    {
+        "URL": "https://royalsocietypublishing.org/doi/10.1098/rsos.210441",
+        "title": "Nothing in evolution makes sense except in the light of parasitism (2021) (royalsocietypublishing.org)",
+        "rank": "122"
+    },
+    {
+        "URL": "https://www.youtube.com/shorts/fTM-48cu1Vg",
+        "title": "Show HN: Run Llama3.1 405B on a 8GB VRAM challenge [video] (youtube.com)",
+        "rank": "123"
+    },
+    {
+        "URL": "https://www.curbed.com/article/lost-congestion-pricing-funds-hochul-lieber-service-cuts.html",
+        "title": "What NYC Lost When It Lost Congestion Pricing (curbed.com)",
+        "rank": "124"
+    },
+    {
+        "URL": "https://fortune.com/2024/07/31/amazon-leadership-principles-questions-future-jeff-bezos-departure-andy-jassy/",
+        "title": "Jeff Bezos' management rules are slowly unraveling inside Amazon (fortune.com)",
+        "rank": "125"
+    },
+    {
+        "URL": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization",
+        "title": "A Visual Guide to LLM Quantization (maartengrootendorst.com)",
+        "rank": "126"
+    },
+    {
+        "URL": "https://lang.video/",
+        "title": "Video: A Language for Making Movies (lang.video)",
+        "rank": "127"
+    },
+    {
+        "URL": "https://2024.nixcon.org/",
+        "title": "NixCon 2024 (Oct. 25th \u2013 27th, 2024) Berlin (nixcon.org)",
+        "rank": "128"
+    },
+    {
+        "URL": "https://github.com/virtualagc/virtualagc",
+        "title": "Virtual Apollo Guidance Computer (github.com/virtualagc)",
+        "rank": "129"
+    },
+    {
+        "URL": "https://orca-app.dev/index.html",
+        "title": "Orca: WebAssembly Apps Without the Web (orca-app.dev)",
+        "rank": "130"
+    },
+    {
+        "URL": "https://davidar.io/post/sim-glsl",
+        "title": "Four billion years in four minutes \u2013 Simulating worlds on the GPU (davidar.io)",
+        "rank": "131"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html",
+        "title": "Lewis Lapham has died (nytimes.com)",
+        "rank": "132"
+    },
+    {
+        "URL": "https://augmend.com/blog/TreeSeg",
+        "title": "TreeSeg: Hierarchical Topic Segmentation of Large Transcripts (augmend.com)",
+        "rank": "133"
+    },
+    {
+        "URL": "https://verbnounenter.net/one-or-more",
+        "title": "Implementing the \u201cone or more\u201d UI component (verbnounenter.net)",
+        "rank": "134"
+    },
+    {
+        "URL": "https://www.servethehome.com/ampere-ampereone-aurora-512-core-ai-cpu-announced-arm/",
+        "title": "Ampere AmpereOne Aurora 512 Core AI CPU Announced (servethehome.com)",
+        "rank": "135"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2407.15811",
+        "title": "Diffusion Training from Scratch on a Micro-Budget (arxiv.org)",
+        "rank": "136"
+    },
+    {
+        "URL": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+        "title": "A eulogy for Dark Sky, a data visualization masterpiece (2023) (nightingaledvs.com)",
+        "rank": "137"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s41598-024-61221-0",
+        "title": "The consequences of generative AI for online knowledge communities (nature.com)",
+        "rank": "138"
+    },
+    {
+        "URL": "https://www.wiisfi.com/",
+        "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7 (802.11 n/AC/ax/be) (wiisfi.com)",
+        "rank": "139"
+    },
+    {
+        "URL": "https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/",
+        "title": "After years of leniency, ULA cracks down on hobbyist photographers (arstechnica.com)",
+        "rank": "140"
+    },
+    {
+        "URL": "https://loro.dev/blog/movable-tree",
+        "title": "Movable tree CRDTs and Loro's implementation (loro.dev)",
+        "rank": "141"
+    },
+    {
+        "URL": "https://github.com/opensourcecorp/vdm",
+        "title": "Show HN: Vdm, a sane alternative to e.g. Git submodules (github.com/opensourcecorp)",
+        "rank": "142"
+    },
+    {
+        "URL": "https://community.frame.work/t/framework-is-looking-for-linux-community-ambassadors/55344",
+        "title": "Framework is looking for Linux Community Ambassadors (frame.work)",
+        "rank": "143"
+    },
+    {
+        "URL": "https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/",
+        "title": "Do Penguins Have Knees? (2019) (penguinsinternational.org)",
+        "rank": "144"
+    },
+    {
+        "URL": "https://spectrum.ieee.org/transparent-tv",
+        "title": "LG and Samsung are making TV screens disappear (ieee.org)",
+        "rank": "145"
+    },
+    {
+        "URL": "https://missing.csail.mit.edu/",
+        "title": "MIT: The Missing Semester of Your CS Education (csail.mit.edu)",
+        "rank": "146"
+    },
+    {
+        "URL": "https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/directive-repair-goods_en",
+        "title": "New EU rules promoting repair of goods enter into force (europa.eu)",
+        "rank": "147"
+    },
+    {
+        "URL": "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process",
+        "title": "How Google handles JavaScript throughout the indexing process (vercel.com)",
+        "rank": "148"
+    },
+    {
+        "URL": "https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud",
+        "title": "Fake job interviews are securities fraud (bloomberg.com)",
+        "rank": "149"
+    },
+    {
+        "URL": "https://xata.io/pgzx",
+        "title": "Pgzx: Postgres Extensions with Zig (xata.io)",
+        "rank": "150"
+    },
+    {
+        "URL": "https://neurooo.com/",
+        "title": "Show HN: Neurooo \u2013 DeepL clone using LLMs for translations (neurooo.com)",
+        "rank": "151"
+    },
+    {
+        "URL": "https://www.atlasobscura.com/articles/gladiatrix-female-gladiators",
+        "title": "The Badass Female Gladiators of Ancient Rome (atlasobscura.com)",
+        "rank": "152"
+    },
+    {
+        "URL": "https://griddd.co",
+        "title": "Show HN: Griddd \u2013 Create a digital presence in minutes (griddd.co)",
+        "rank": "153"
+    },
+    {
+        "URL": "https://github.com/alexta69/metube",
+        "title": "MeTube: Self-hosted YouTube downloader (github.com/alexta69)",
+        "rank": "154"
+    },
+    {
+        "URL": "https://frab.riat.at/system/event_attachments/attachments/000/000/063/original/truecrypt-slides-36c3.pdf?1577534222",
+        "title": "The secret TrueCrypt security audit [pdf] (2019) (frab.riat.at)",
+        "rank": "155"
+    },
+    {
+        "URL": "https://www.stopkillinggames.com/eci",
+        "title": "Stop Killing Games \u2013 European Citizens' Initiative (stopkillinggames.com)",
+        "rank": "156"
+    },
+    {
+        "URL": "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records",
+        "title": "The weird and wonderful world of DNS LOC records (2014) (cloudflare.com)",
+        "rank": "157"
+    },
+    {
+        "URL": "https://www.bbc.co.uk/news/articles/c51y4wrqge7o",
+        "title": "Microwave technology saves diabetic patient from double amputation (bbc.co.uk)",
+        "rank": "158"
+    },
+    {
+        "URL": "https://blog.gridstatus.io/ercot-nuclear-trip/",
+        "title": "How the electricity markets respond to a nuclear trip (gridstatus.io)",
+        "rank": "159"
+    },
+    {
+        "URL": "https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/dungeons-and-dragons-2024-srd-wont-be-another-ogl-fiasco",
+        "title": "D&D will release its 2024 ruleset under a Creative Commons licence (dicebreaker.com)",
+        "rank": "160"
+    },
+    {
+        "URL": "https://github.com/davidgiven/wordgrinder",
+        "title": "WordGrinder: A simple word processor that runs on the console (github.com/davidgiven)",
+        "rank": "161"
+    },
+    {
+        "URL": "https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/",
+        "title": "Will Britain Survive? (2022) (theatlantic.com)",
+        "rank": "162"
+    },
+    {
+        "URL": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html",
+        "title": "OpenSSL bug exposed up to 255 bytes of client heap and existed since 2011 (jbp.io)",
+        "rank": "163"
+    },
+    {
+        "URL": "https://servo.org/blog/2024/07/31/this-month-in-servo/",
+        "title": "This month in Servo: console logging, parallel tables, OpenXR, and more (servo.org)",
+        "rank": "164"
+    },
+    {
+        "URL": "https://github.com/CelVoxes/ceLLama",
+        "title": "Show HN: CeLLama \u2013 Single cell annotation with local LLMs (github.com/celvoxes)",
+        "rank": "165"
+    },
+    {
+        "URL": "https://github.com/chisasaw/redcache-ai",
+        "title": "Show HN: A tool to give large language models better memory (github.com/chisasaw)",
+        "rank": "166"
+    },
+    {
+        "URL": "https://www.alertfor.com/",
+        "title": "Show HN: I made a tool to receive alerts when answers change (alertfor.com)",
+        "rank": "167"
+    },
+    {
+        "URL": "item?id=41100094",
+        "title": "Launch HN: Roame (YC S23) \u2013 Flight search engine for your credit card points",
+        "rank": "168"
+    },
+    {
+        "URL": "https://apnews.com/article/tesla-full-self-driving-motorcyclist-killed-d3393396521c373fe5df5a44d2d9637f",
+        "title": "Tesla in Seattle-area crash that killed motorcyclist was using FSD system (apnews.com)",
+        "rank": "169"
+    },
+    {
+        "URL": "https://ai.meta.com/blog/segment-anything-2/",
+        "title": "Sam 2: The next generation of Meta Segment Anything Model (meta.com)",
+        "rank": "170"
+    },
+    {
+        "URL": "https://nonsaas.com",
+        "title": "Show HN: Non SaaS \u2013 Directory of Non SaaS Apps (nonsaas.com)",
+        "rank": "171"
+    },
+    {
+        "URL": "https://dotat.at/@/2024-07-28-tolower-avx512.html",
+        "title": "tolower() with AVX-512 (dotat.at)",
+        "rank": "172"
+    },
+    {
+        "URL": "https://uk.pcmag.com/processors/153676/intel-faces-potential-class-action-lawsuit-over-chip-bug-controversy",
+        "title": "Intel Faces Potential Class-Action Lawsuit over Chip Bug Controversy (pcmag.com)",
+        "rank": "173"
+    },
+    {
+        "URL": "https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill",
+        "title": "How to save $13.27 on your SaaS bill (dgerrells.com)",
+        "rank": "174"
+    },
+    {
+        "URL": "https://itfossil.com/posts/2024/7/our-users-deserve-a-bill-rights/",
+        "title": "Our Users Deserve a Bill of Rights (itfossil.com)",
+        "rank": "175"
+    },
+    {
+        "URL": "https://www.gkogan.co/increase-reply-rates/",
+        "title": "Say less in your emails, get more replies (2017) (gkogan.co)",
+        "rank": "176"
+    },
+    {
+        "URL": "https://englishwithkirsty.com/2018/02/19/5-constructive-ways-to-say-you-think-something-is-a-bad-idea/",
+        "title": "Constructive ways to say you think something is a bad idea (englishwithkirsty.com)",
+        "rank": "177"
+    },
+    {
+        "URL": "https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html",
+        "title": "SQLite-vec v0.1.0: a vector search SQLite extension that runs everywhere (alexgarcia.xyz)",
+        "rank": "178"
+    },
+    {
+        "URL": "https://thinkpost.io",
+        "title": "Show HN: ThinkPost \u2013 split-panel note taking & brainstorming app for devs (thinkpost.io)",
+        "rank": "179"
+    },
+    {
+        "URL": "https://zedshaw.com/blog/2022-02-05-the-beggar-barons/",
+        "title": "The Beggar Barons (2022) (zedshaw.com)",
+        "rank": "180"
+    },
+    {
+        "URL": "https://heavymeta.org/2024/07/28/crowdstrikes-impact-on-aviation.html",
+        "title": "CrowdStrike's impact on aviation (heavymeta.org)",
+        "rank": "181"
+    },
+    {
+        "URL": "https://finance.yahoo.com/news/nvidia-100-billion-swings-become-165926857.html",
+        "title": "Nvidia Adds Record $329B in Value as Volatility Soars (yahoo.com)",
+        "rank": "182"
+    },
+    {
+        "URL": "https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/",
+        "title": "One-man SaaS, 9 Years In (healthchecks.io)",
+        "rank": "183"
+    },
+    {
+        "URL": "https://www.sfchronicle.com/tech/article/humble-games-sf-indie-publisher-layoffs-19607187.php",
+        "title": "S.F. video game publisher lays off entire staff in major overhaul (sfchronicle.com)",
+        "rank": "184"
+    },
+    {
+        "URL": "https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/",
+        "title": "Robin Warren Has Died (telegraph.co.uk)",
+        "rank": "185"
+    },
+    {
+        "URL": "https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/",
+        "title": "Debugging distributed database mysteries with Rust, packet capture and Polars (questdb.io)",
+        "rank": "186"
+    },
+    {
+        "URL": "https://blog.codingconfessions.com/p/simultaneous-multithreading",
+        "title": "How simultaneous multithreading works under the hood (codingconfessions.com)",
+        "rank": "187"
+    },
+    {
+        "URL": "https://e10v.me/tea-tasting-analysis-of-experiments/",
+        "title": "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests (e10v.me)",
+        "rank": "188"
+    },
+    {
+        "URL": "https://github.com/zevweiss/booze",
+        "title": "Zevweiss/booze: FUSE bindings for bash (github.com/zevweiss)",
+        "rank": "189"
+    },
+    {
+        "URL": "https://twitter.com/openai/status/1818353580279316863",
+        "title": "OpenAI starts rolling out new voice mode (twitter.com/openai)",
+        "rank": "190"
+    },
+    {
+        "URL": "https://b4rtaz.medium.com/how-to-run-llama-3-405b-on-home-devices-build-ai-cluster-ad0d5ad3473b",
+        "title": "How to Run Llama 3 405B on Home Devices? Build AI Cluster (b4rtaz.medium.com)",
+        "rank": "191"
+    },
+    {
+        "URL": "https://sam.gov/opp/1e45d648886b4e9ca91890285af77eb7/view",
+        "title": "Translating All C to Rust (sam.gov)",
+        "rank": "192"
+    },
+    {
+        "URL": "https://www.nbcnews.com/health/health-news/colon-cancer-blood-test-shield-screening-fda-approved-rcna163630",
+        "title": "FDA approves blood test to screen for colon cancer (nbcnews.com)",
+        "rank": "193"
+    },
+    {
+        "URL": "https://wingolog.org/",
+        "title": "Whippet is a garbage collector library for language run-time authors (wingolog.org)",
+        "rank": "194"
+    },
+    {
+        "URL": "https://prefix.dev/blog/pixi_for_scientists",
+        "title": "Pixi \u2013 rust-based package manager for reproducible scientific workflows (prefix.dev)",
+        "rank": "195"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Blind_Man%27s_Bluff:_The_Untold_Story_of_American_Submarine_Espionage",
+        "title": "Blind Man's Bluff: The Untold Story of American Submarine Espionage (wikipedia.org)",
+        "rank": "196"
+    },
+    {
+        "URL": "https://www.antiquetypewriters.com/typewriter/smith-premier-1-typewriter/",
+        "title": "Smith Premier 1 Typewriter (antiquetypewriters.com)",
+        "rank": "197"
+    },
+    {
+        "URL": "https://cratedb.com/blog/hybrid-search-explained",
+        "title": "Hybrid Search in CrateDB - ranking and scoring calculations in pure SQL (cratedb.com)",
+        "rank": "198"
+    },
+    {
+        "URL": "https://www.forbes.com/sites/kateoflahertyuk/2024/07/31/microsoft-confirms-new-outage-was-triggered-by-cyberattack/",
+        "title": "Microsoft Confirms New Outage Was Triggered by Cyberattack (forbes.com/sites/kateoflahertyuk)",
+        "rank": "199"
+    },
+    {
+        "URL": "https://drilled.media/news/ccs",
+        "title": "Oil Companies Know Carbon Capture Is Not a Climate Solution (drilled.media)",
+        "rank": "200"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-08-01/india-s-tech-startup-struggles-spark-vc-funding-retreat",
+        "title": "India's $45B Startup Implosion Puts Tech Future in Doubt (bloomberg.com)",
+        "rank": "201"
+    },
+    {
+        "URL": "https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/",
+        "title": "The Tech of Planetary Annihilation: ChronoCam (2013) (forrestthewoods.com)",
+        "rank": "202"
+    },
+    {
+        "URL": "https://github.com/zopefoundation/RestrictedPython",
+        "title": "RestrictedPython (github.com/zopefoundation)",
+        "rank": "203"
+    },
+    {
+        "URL": "https://www.theguardian.com/global-development/article/2024/aug/01/uruguay-anger-environmental-cost-google-datacentre-carbon-emissions-toxic-waste-water",
+        "title": "Anger mounts over environmental cost of Google datacentre in Uruguay (theguardian.com)",
+        "rank": "204"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-07-31/taco-bell-yum-to-expand-ai-drive-thru-to-hundreds-of-us-restaurants",
+        "title": "Taco Bell is going all in on artificial intelligence (bloomberg.com)",
+        "rank": "205"
+    },
+    {
+        "URL": "https://github.com/albfan/miraclecast",
+        "title": "Miraclecast \u2013 Miracast (WiFi Display) Implementation (github.com/albfan)",
+        "rank": "206"
+    },
+    {
+        "URL": "https://www.wsj.com/business/airlines/delta-ceo-says-crowdstrike-tech-outage-costs-could-reach-500-million-3b7f5a13",
+        "title": "Delta CEO Says CrowdStrike Tech Outage Cost It $500 Million (wsj.com)",
+        "rank": "207"
+    },
+    {
+        "URL": "https://github.com/izabera/ps",
+        "title": "ps aux written in bash without forking (github.com/izabera)",
+        "rank": "208"
+    },
+    {
+        "URL": "https://kimbroughski.medium.com/how-to-use-a-tailscale-vpn-to-embrace-remote-work-and-explore-the-world-3668481756e9",
+        "title": "How to Use Tailscale VPN to Embrace Remote Work and Explore the World (kimbroughski.medium.com)",
+        "rank": "209"
+    },
+    {
+        "URL": "https://passo.uno/contribute-open-source-docs/",
+        "title": "Contributing to open source docs as a technical writer (passo.uno)",
+        "rank": "210"
+    },
+    {
+        "URL": "https://fly.io/blog/machine-migrations/",
+        "title": "Making Machines Move (fly.io)",
+        "rank": "211"
+    },
+    {
+        "URL": "https://trayce.dev",
+        "title": "Show HN: Trayce \u2013 \"The network tab for your local Docker containers\" (trayce.dev)",
+        "rank": "212"
+    },
+    {
+        "URL": "https://torrentfreak.com/indian-police-pinpoint-seat-of-movie-camming-pirate-by-analyzing-the-film-angle-240729/",
+        "title": "Indian Police Pinpoint Seat of Movie Camming Pirate by Analyzing the Film Angle (torrentfreak.com)",
+        "rank": "213"
+    },
+    {
+        "URL": "https://www.npr.org/2024/08/01/g-s1-14633/amazon-must-recall-unsafe-products-independent-sellers",
+        "title": "Amazon is responsible for recalling unsafe products sold on its site,agency says (npr.org)",
+        "rank": "214"
+    },
+    {
+        "URL": "https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository",
+        "title": "AWS Code Commit Ceased Onboarding New Customers (repost.aws)",
+        "rank": "215"
+    },
+    {
+        "URL": "https://www.wsj.com/tech/meta-cocaine-opioids-ads-dea8e0fc",
+        "title": "Meta has run hundreds of ads for cocaine, opioids and other drugs (wsj.com)",
+        "rank": "216"
+    },
+    {
+        "URL": "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/",
+        "title": "My mental model of setf was wrong (simondobson.org)",
+        "rank": "217"
+    },
+    {
+        "URL": "https://www.businessinsider.com/the-5-dollar-mcdonalds-deal-might-not-be-cheap-enough-2024-7",
+        "title": "That $5 McDonald's value deal might not be cheap enough (businessinsider.com)",
+        "rank": "218"
+    },
+    {
+        "URL": "https://www.netguru.com/blog/how-to-build-design-systems-from-scratch",
+        "title": "How to Build Design Systems from Scratch? (netguru.com)",
+        "rank": "219"
+    },
+    {
+        "URL": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58",
+        "title": "The irrational hungry judge effect revisited (2023) (cambridge.org)",
+        "rank": "220"
+    },
+    {
+        "URL": "https://infrequently.org/2024/07/misfire/",
+        "title": "Misfire (infrequently.org)",
+        "rank": "221"
+    },
+    {
+        "URL": "https://old.reddit.com/r/ChatGPT/comments/1eh5oth/it_seems_that_chatgpt_can_reference_reddit_data/",
+        "title": "It seems that ChatGPT can reference Reddit data ~30 seconds after it's posted (reddit.com)",
+        "rank": "222"
+    },
+    {
+        "URL": "https://ublockorigin.com",
+        "title": "uBlock Origin Lite (Manifest V3) by Gorhill (ublockorigin.com)",
+        "rank": "223"
+    },
+    {
+        "URL": "https://www.neowin.net/news/aws-to-discontinue-cloud9-codecommit-cloudsearch-and-several-other-services/",
+        "title": "AWS to discontinue Cloud9, CodeCommit, CloudSearch and several other services (neowin.net)",
+        "rank": "224"
+    },
+    {
+        "URL": "item?id=41116896",
+        "title": "Ask HN: What are some unusual but useful Python libraries you've discovered?",
+        "rank": "225"
+    },
+    {
+        "URL": "https://caslab.io/publications/etim2024extending.pdf",
+        "title": "Extending FPGA Information Leaks with Trojan Phantom Circuits [pdf] (caslab.io)",
+        "rank": "226"
+    },
+    {
+        "URL": "https://spectrum.ieee.org/gladys-west-hidden-figure-gps",
+        "title": "Gladys West: The Hidden Figure Behind GPS (ieee.org)",
+        "rank": "227"
+    },
+    {
+        "URL": "https://outlit.ai",
+        "title": "Show HN: Outlit \u2013 AI Agents to Empower Non-Legal (outlit.ai)",
+        "rank": "228"
+    },
+    {
+        "URL": "https://okmij.org/ftp/ML/higher-kind-poly.html",
+        "title": "Higher-kinded bounded polymorphism in OCaml (2021) (okmij.org)",
+        "rank": "229"
+    },
+    {
+        "URL": "https://www.usemerlin.io",
+        "title": "Show HN: Merlin \u2013 Contextual Intelligence Agent for GTM (usemerlin.io)",
+        "rank": "230"
+    },
+    {
+        "URL": "https://ai.meta.com/ai-studio/",
+        "title": "Meta Launches AI Studio in US (meta.com)",
+        "rank": "231"
+    },
+    {
+        "URL": "https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html",
+        "title": "Italy's Sun Motorway (2021) (domusweb.it)",
+        "rank": "232"
+    },
+    {
+        "URL": "https://www.hezmatt.org/~mpalmer/blog/2024/07/31/healthcare-company-sues-to-stop-certificate-revocation.html",
+        "title": "Health industry company sues to prevent certificate revocation (hezmatt.org)",
+        "rank": "233"
+    },
+    {
+        "URL": "https://onemillioncolors.com/",
+        "title": "Show HN: OneMillionColors \u2013 explore, add and customize One Million Colors (onemillioncolors.com)",
+        "rank": "234"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/30/24209440/olympics-men-triathlon-postponed-pollution-river-seine",
+        "title": "Olympic men's triathlon postponed due to river pollution (theverge.com)",
+        "rank": "235"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2407.09717",
+        "title": "Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI (arxiv.org)",
+        "rank": "236"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html",
+        "title": "Federal regulator says Amazon can be held responsible for faulty goods (cnbc.com)",
+        "rank": "237"
+    },
+    {
+        "URL": "https://github.com/chisasaw/redcache-ai",
+        "title": "Show HN: Redcache_AI \u2013 open-source memory framework for LLMs and Agents (github.com/chisasaw)",
+        "rank": "238"
+    },
+    {
+        "URL": "https://www.theinformation.com/articles/tiktok-spending-drove-microsofts-booming-ai-business",
+        "title": "TikTok paying $20M/mo to buy OpenAI's models (25% of MSFT revenue from business) (theinformation.com)",
+        "rank": "239"
+    },
+    {
+        "URL": "https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/",
+        "title": "Attribution is dying, clicks are dying (sparktoro.com)",
+        "rank": "240"
+    },
+    {
+        "URL": "https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6",
+        "title": "Phishing Campaign Exploits Proofpoint to Send Spoofed Emails (guard.io)",
+        "rank": "241"
+    },
+    {
+        "URL": "https://wcedmisten.fyi/post/how-to-query-osm/",
+        "title": "Open Source Tools to Query OpenStreetMap (wcedmisten.fyi)",
+        "rank": "242"
+    },
+    {
+        "URL": "https://phys.org/news/2024-07-cocaine-muscle-liver-sharpnose-sharks.html",
+        "title": "Cocaine found in muscle/liver of sharpnose sharks off coast of Rio de Janeiro (phys.org)",
+        "rank": "243"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/30/malaysia_internet_killswitch/",
+        "title": "Malaysia is working on an internet 'kill switch', says minister (theregister.com)",
+        "rank": "244"
+    },
+    {
+        "URL": "https://honnibal.dev/blog/back-to-our-roots",
+        "title": "Back to our roots (honnibal.dev)",
+        "rank": "245"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/08/01/proposed-rule-would-ban-airlines-from-charging-parents-to-sit-with-their-children.html",
+        "title": "Proposed rule would ban airlines from charging parents to sit with children (cnbc.com)",
+        "rank": "246"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/08/01/mozilla_entrust/",
+        "title": "Mozilla follows Google in losing trust in Entrust's TLS certificates (theregister.com)",
+        "rank": "247"
+    },
+    {
+        "URL": "https://www.bbc.com/news/articles/c0xj3xq5l1vo",
+        "title": "Australia starts world-first peanut allergy treatment for babies (bbc.com)",
+        "rank": "248"
+    },
+    {
+        "URL": "https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf",
+        "title": "Blood test for colon cancer screening approved by US regulators (apnews.com)",
+        "rank": "249"
+    },
+    {
+        "URL": "https://msreekan.com/2014/01/15/sdcard/",
+        "title": "SDcard wear leveling and translation layers (2014) (msreekan.com)",
+        "rank": "250"
+    },
+    {
+        "URL": "https://www.sciencealert.com/turns-out-nasa-has-a-chemical-specialist-who-sniffs-things-before-they-go-into-space",
+        "title": "NASA Has a Chemical Specialist Who Sniffs Things Before They Go to Space [2018] (sciencealert.com)",
+        "rank": "251"
+    },
+    {
+        "URL": "https://www.nasa.gov/solar-system/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth/",
+        "title": "From a Million Miles Away, NASA Camera Shows Moon Crossing Face of Earth (2015) (nasa.gov)",
+        "rank": "252"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html",
+        "title": "Microsoft says OpenAI is now a competitor in AI and search (cnbc.com)",
+        "rank": "253"
+    },
+    {
+        "URL": "https://synapse.nugatio.com/",
+        "title": "Show HN: An interactive creative coding project in p5.js (nugatio.com)",
+        "rank": "254"
+    },
+    {
+        "URL": "https://arstechnica.com/security/2024/07/mysterious-family-of-malware-hid-in-google-play-for-years/",
+        "title": "Mysterious family of malware hid in Google Play for years (arstechnica.com)",
+        "rank": "255"
+    },
+    {
+        "URL": "https://www.emojijournal.net/",
+        "title": "Show HN: I made an online journaling app focused on day overview using emojis (emojijournal.net)",
+        "rank": "256"
+    },
+    {
+        "URL": "https://github.com/NyuB/yadladoc",
+        "title": "Show HN: Keep code and doc snippets in sync by checking your README (github.com/nyub)",
+        "rank": "257"
+    },
+    {
+        "URL": "https://hayageek.com/understanding-http-3-features-benefits-impact/",
+        "title": "Understanding HTTP/3 \u00e2\u20ac\u201c Features, Benefits and Impact (hayageek.com)",
+        "rank": "258"
+    },
+    {
+        "URL": "https://www.axios.com/2024/07/29/france-fiber-optic-olympic-attack",
+        "title": "French fiber optic cables cut in latest Olympics sabotage (axios.com)",
+        "rank": "259"
+    },
+    {
+        "URL": "https://www.bbc.co.uk/news/articles/cy08ljxndr4o",
+        "title": "CrowdStrike sued by shareholders over global outage (bbc.co.uk)",
+        "rank": "260"
+    },
+    {
+        "URL": "https://app.wiz.chat",
+        "title": "Show HN: Run Llama 3.1 8B in the browser (wiz.chat)",
+        "rank": "261"
+    },
+    {
+        "URL": "https://www.theverge.com/24210795/kosa-kids-online-safety-act-senate-teens-student-lobby",
+        "title": "Teens Lobbying Against the Kids Online Safety Act (theverge.com)",
+        "rank": "262"
+    },
+    {
+        "URL": "https://ai.meta.com/sam2/",
+        "title": "Meta introduces Segment Anything Model 2 (meta.com)",
+        "rank": "263"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/31/magazine/sabrina-javellana-florida-politics-ai-porn.html",
+        "title": "Trolls Used Her Face to Make Fake Porn. There Was Nothing She Could Do. (nytimes.com)",
+        "rank": "264"
+    },
+    {
+        "URL": "https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/",
+        "title": "Why the CrowdStrike bug hit banks hard (bitsaboutmoney.com)",
+        "rank": "265"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/30/apple_google_tpu_ai/",
+        "title": "No love lost between Apple and Nvidia (theregister.com)",
+        "rank": "266"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/31/delta-ceo-crowdstrike-microsoft-outage-cost-the-airline-500-million.html",
+        "title": "Delta CEO: CrowdStrike-Microsoft outage cost the airline $500M (cnbc.com)",
+        "rank": "267"
+    },
+    {
+        "URL": "item?id=41114564",
+        "title": "Ask HN: What's new being done with P2P?",
+        "rank": "268"
+    },
+    {
+        "URL": "https://www.quantamagazine.org/with-digital-twins-the-doctor-will-see-you-now-20240726/",
+        "title": "With 'digital twins,' the doctor will see you now (quantamagazine.org)",
+        "rank": "269"
+    },
+    {
+        "URL": "https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/",
+        "title": "How middlemen are gaming the H-1B program (bloomberg.com)",
+        "rank": "270"
+    },
+    {
+        "URL": "https://www.sfgate.com/tech/article/linkedin-laid-off-california-workers-19607067.php",
+        "title": "Laid-off California tech workers are sick to death of LinkedIn (sfgate.com)",
+        "rank": "271"
+    },
+    {
+        "URL": "https://www.noemamag.com/its-oil-that-makes-la-boil/",
+        "title": "Before LA became Tinseltown, it was an oil town (noemamag.com)",
+        "rank": "272"
+    },
+    {
+        "URL": "https://e360.yale.edu/features/greening-drylands-carbon-dioxide-climate-change",
+        "title": "With CO2 Levels Rising, Drylands Are Turning Green \u2013 Yale E360 (yale.edu)",
+        "rank": "273"
+    },
+    {
+        "URL": "https://huggingface.co/Aryn/deformable-detr-DocLayNet",
+        "title": "Aryn/deformable-detr-DocLayNet \u2013 open-source Layout Model (huggingface.co)",
+        "rank": "274"
+    },
+    {
+        "URL": "https://leandojo.org/",
+        "title": "LeanDojo: Theorem Proving in Lean Using LLMs (leandojo.org)",
+        "rank": "275"
+    },
+    {
+        "URL": "https://www.teslarati.com/uber-byd-announce-massive-100000-ev-partnership/",
+        "title": "Uber and BYD announce 100k EV partnership (teslarati.com)",
+        "rank": "276"
+    },
+    {
+        "URL": "https://mymodernmet.com/ming-dynasty-shipwreck/",
+        "title": "Over 900 artifacts recovered from Ming dynasty shipwreck (mymodernmet.com)",
+        "rank": "277"
+    },
+    {
+        "URL": "https://vincent.bernat.ch/en/blog/2024-bgp-endless-aspath",
+        "title": "Crafting Endless as Paths in BGP (bernat.ch)",
+        "rank": "278"
+    },
+    {
+        "URL": "https://www.theverge.com/24206037/casio-ws-b1000-review-smartwatch-wearable",
+        "title": "This $56 Casio watch is a retro step tracking dream (theverge.com)",
+        "rank": "279"
+    },
+    {
+        "URL": "https://www.cidrap.umn.edu/covid-19/young-adults-higher-risk-hearing-loss-after-covid-infection-data-suggest",
+        "title": "Young adults at higher risk of hearing loss after Covid infection, data suggest (umn.edu)",
+        "rank": "280"
+    },
+    {
+        "URL": "https://www.xda-developers.com/raspberry-pi-serious-competitor-particle-tachyon-5g-capable-sbc/",
+        "title": "Raspberry Pi gets a serious competitor as Particle unveils its 5G-capable SBC (xda-developers.com)",
+        "rank": "281"
+    },
+    {
+        "URL": "https://aimodelreview.com/blog/Ladders/",
+        "title": "Consider the Ladder: Why do different LLMs tell the same joke? (aimodelreview.com)",
+        "rank": "282"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2312.07104",
+        "title": "Efficient Execution of Structured Language Model Programs (arxiv.org)",
+        "rank": "283"
+    },
+    {
+        "URL": "https://www.dbreunig.com/2024/07/31/towards-standardizing-place.html",
+        "title": "Towards Standardizing Place: Why I'm Excited for Overture's GERS (dbreunig.com)",
+        "rank": "284"
+    },
+    {
+        "URL": "https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority",
+        "title": "All I Know About Certificates \u2013 Certificate Authority (pixelstech.net)",
+        "rank": "285"
+    },
+    {
+        "URL": "https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/",
+        "title": "Don't blindly prefer `emplace_back` to `push_back` (2021) (quuxplusone.github.io)",
+        "rank": "286"
+    },
+    {
+        "URL": "https://www.assistant-ui.com/blog/2024-07-29-hello",
+        "title": "Assistant-UI is an open-source AI chat component for React (assistant-ui.com)",
+        "rank": "287"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Law_of_Jante",
+        "title": "Law of Jante (wikipedia.org)",
+        "rank": "288"
+    },
+    {
+        "URL": "http://www.hisutton.com/Transatlantic-Narco-Submarines-202406.html",
+        "title": "Increase in Transatlantic Narco Submarines (hisutton.com)",
+        "rank": "289"
+    },
+    {
+        "URL": "https://www.alignedhq.ai/post/ai-irl-25-evaluating-language-models-on-life-s-curveballs",
+        "title": "IRL 25: Evaluating Language Models on Life's Curveballs (alignedhq.ai)",
+        "rank": "290"
+    },
+    {
+        "URL": "https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html",
+        "title": "Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins (securityaffairs.com)",
+        "rank": "291"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Deep-fried_butter",
+        "title": "Deep-Fried Butter (wikipedia.org)",
+        "rank": "292"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html",
+        "title": "A blood test accurately diagnosed Alzheimer's 90% of the time, study finds (nytimes.com)",
+        "rank": "293"
+    },
+    {
+        "URL": "item?id=41112913",
+        "title": "Ask HN: Have AI learn my own business Knowledge(verity of formats) for chat bot",
+        "rank": "294"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=EGttFWntctU",
+        "title": "Marcus Hutchins-Microsoft claim that CrowdStrike was enabled by EU rule is false [video] (youtube.com)",
+        "rank": "295"
+    },
+    {
+        "URL": "https://www.newyorker.com/culture/open-questions/what-dont-we-know",
+        "title": "We have a lot to learn from studying our ignorance (newyorker.com)",
+        "rank": "296"
+    },
+    {
+        "URL": "https://www.securityweek.com/crowdstrike-faces-lawsuits-from-customers-investors/",
+        "title": "CrowdStrike Faces Lawsuits from Customers, Investors (securityweek.com)",
+        "rank": "297"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Socialist_fraternal_kiss",
+        "title": "Socialist Fraternal Kiss (wikipedia.org)",
+        "rank": "298"
+    },
+    {
+        "URL": "https://www.twz.com/air/air-force-chief-hints-at-existence-of-clandestine-spy-aircraft",
+        "title": "Air Force chief hints at existence of clandestine spy aircraft (twz.com)",
+        "rank": "299"
+    },
+    {
+        "URL": "https://news.wsu.edu/press-release/2024/07/30/using-the-term-artificial-intelligence-in-product-descriptions-reduces-purchase-intentions/",
+        "title": "Using the term 'AI' in product descriptions reduces purchase intentions (wsu.edu)",
+        "rank": "300"
+    },
+    {
+        "URL": "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/",
+        "title": "Microsoft technical breakdown of CrowdStrike incident (microsoft.com)",
+        "rank": "301"
+    },
+    {
+        "URL": "https://www.forbes.com/sites/daveywinder/2024/07/29/google-says-sorry-after-passwords-vanish-for-15-million-windows-users/",
+        "title": "Google Says Sorry After Passwords Vanish for 15M Windows User (forbes.com/sites/daveywinder)",
+        "rank": "302"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-07-29/tesla-analyst-nearly-crashes-while-testing-full-self-driving",
+        "title": "Tesla Analyst Nearly Crashes While Using Tesla's 'Full Self-Driving (bloomberg.com)",
+        "rank": "303"
+    },
+    {
+        "URL": "https://www.bbc.com/news/education-21895704",
+        "title": "Children should be allowed to get bored (2013) (bbc.com)",
+        "rank": "304"
+    },
+    {
+        "URL": "https://knowablemagazine.org/content/article/food-environment/2024/air-pollution-is-bad-for-pollination",
+        "title": "Air pollution makes it harder for bees to smell flowers (knowablemagazine.org)",
+        "rank": "305"
+    },
+    {
+        "URL": "https://ard.bmj.com/content/79/6/829",
+        "title": "Regular Glucosamine Use and Mortality (bmj.com)",
+        "rank": "306"
+    },
+    {
+        "URL": "https://statsbomb-3d-viz.vercel.app/",
+        "title": "Show HN: A football/soccer pass visualizer made with Three.js (statsbomb-3d-viz.vercel.app)",
+        "rank": "307"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
+        "title": "Reddit CEO: Microsoft needs to pay to search the site (theverge.com)",
+        "rank": "308"
+    },
+    {
+        "URL": "https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml",
+        "title": "CSC ServiceWorks laundry machine coin bypass (2023) (orlitzky.com)",
+        "rank": "309"
+    },
+    {
+        "URL": "https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/",
+        "title": "Tesla recalls 1.8M cars because their hoods can open while driving (arstechnica.com)",
+        "rank": "310"
+    },
+    {
+        "URL": "item?id=41115712",
+        "title": "How do I go about reverse engineering and deformulating a beverage at home?",
+        "rank": "311"
+    },
+    {
+        "URL": "https://www.bleepingcomputer.com/news/security/credit-card-users-get-mysterious-shopify-chargecom-charges/",
+        "title": "Credit card users get mysterious Shopify-charge.com charges (bleepingcomputer.com)",
+        "rank": "312"
+    },
+    {
+        "URL": "https://www.npr.org/sections/planet-money/2024/07/26/g-s1-13534/ozempic-biggest-side-effect-denmark-pharmastate",
+        "title": "Ozempic's biggest side effect: Turning Denmark into a 'pharmastate'? (npr.org)",
+        "rank": "313"
+    },
+    {
+        "URL": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+        "title": "A skeptic's first contact with Kubernetes (davidv.dev)",
+        "rank": "314"
+    },
+    {
+        "URL": "https://www.re-des.org/es/a-solarpunk-manifesto/",
+        "title": "What Is Solar Punk? A Creative Commons Solar Punk Manifesto (re-des.org)",
+        "rank": "315"
+    },
+    {
+        "URL": "https://arstechnica.com/tech-policy/2024/07/kids-online-safety-act-passes-senate-despite-concerns-it-will-harm-kids/",
+        "title": "Kids Online Safety Act passes Senate despite concerns it will harm kids (arstechnica.com)",
+        "rank": "316"
+    },
+    {
+        "URL": "https://salt.security/blog/over-1-million-websites-are-at-risk-of-sensitive-information-leakage---xss-is-dead-long-live-xss",
+        "title": "Over 1M websites are at risk of sensitive information leakage (salt.security)",
+        "rank": "317"
+    },
+    {
+        "URL": "https://arstechnica.com/gadgets/2024/07/loss-of-popular-2fa-tool-puts-security-minded-grapheneos-in-a-paradox/",
+        "title": "Loss of popular 2FA tool puts security-minded GrapheneOS in a paradox (arstechnica.com)",
+        "rank": "318"
+    },
+    {
+        "URL": "https://www.cnn.com/2024/07/30/economy/us-jolts-job-openings-quits-layoffs-june/index.html",
+        "title": "The number of available jobs in the US is shrinking (cnn.com)",
+        "rank": "319"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/30/well/decaf-coffee-chemicals-safety.html",
+        "title": "Is Decaffeinated Coffee Bad for You? (nytimes.com)",
+        "rank": "320"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=dV_lf1kyV9M",
+        "title": "Introdution to Computer architecture explained with Minecraft [video] (youtube.com)",
+        "rank": "321"
+    },
+    {
+        "URL": "https://www.pankajtanwar.in/blog/i-turned-my-10-year-old-tablet-into-a-digital-photo-frame-displaying-google-photos-album",
+        "title": "Show HN: Turning my 10y old tablet into digital photo frame (pankajtanwar.in)",
+        "rank": "322"
+    },
+    {
+        "URL": "https://www.cbc.ca/news/business/crowdstrike-sued-shareholders-1.7282048",
+        "title": "CrowdStrike hit by class action lawsuit from shareholders over outage (cbc.ca)",
+        "rank": "323"
+    },
+    {
+        "URL": "https://www.theguardian.com/world/article/2024/aug/01/argentina-ai-predicting-future-crimes-citizen-rights",
+        "title": "Argentina will use AI to 'predict future crimes' (theguardian.com)",
+        "rank": "324"
+    },
+    {
+        "URL": "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/",
+        "title": "My favorite tools and techniques for procedural gamedev (cprimozic.net)",
+        "rank": "325"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s41746-024-01185-7",
+        "title": "Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine (nature.com)",
+        "rank": "326"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Kentucky_in_Africa",
+        "title": "Kentucky in Africa (wikipedia.org)",
+        "rank": "327"
+    },
+    {
+        "URL": "https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/",
+        "title": "Basic \u00e2\u20ac\u201c The Most Consequential Programming Language in the History of Computing (wired.com)",
+        "rank": "328"
+    },
+    {
+        "URL": "https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/",
+        "title": "Websites Are Blocking the Wrong AI Scrapers (404media.co)",
+        "rank": "329"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2402.17152",
+        "title": "Trillion-Parameter Sequential Transducers for Generative Recommendations (arxiv.org)",
+        "rank": "330"
+    },
+    {
+        "URL": "https://www.tomshardware.com/pc-components/cpus/intel-investigated-for-class-action-for-cpu-crashing-and-instability-issues",
+        "title": "Intel class action lawsuit investigation begins (tomshardware.com)",
+        "rank": "331"
+    },
+    {
+        "URL": "https://futurism.com/the-byte/study-consumers-turned-off-products-ai",
+        "title": "Study: Consumers Actively Turned Off by AI (futurism.com)",
+        "rank": "332"
+    },
+    {
+        "URL": "https://www.smithsonianmag.com/innovation/this-high-schooler-invented-an-ai-powered-trap-that-zaps-invasive-lanternflies-180983918/",
+        "title": "A.I.-Powered Trap That Zaps Invasive Lanternflies (smithsonianmag.com)",
+        "rank": "333"
+    },
+    {
+        "URL": "https://www.bbc.com/news/articles/c84jdxd4x1ro",
+        "title": "Two new dementia risks identified by major report (bbc.com)",
+        "rank": "334"
+    },
+    {
+        "URL": "https://help.kagi.com/kagi/ai/llm-benchmark.html",
+        "title": "Kagi LLM Benchmarking Project (kagi.com)",
+        "rank": "335"
+    },
+    {
+        "URL": "https://jdk.java.net/valhalla/",
+        "title": "Java EA Released: JEP 401: Value Classes and Objects (java.net)",
+        "rank": "336"
+    },
+    {
+        "URL": "https://world.hey.com/ricardo/how-venezuela-is-open-sourcing-their-way-to-democracy-cb444ce1",
+        "title": "Venezuela wants to end a dictatorship via Open Sourcing their elections (world.hey.com)",
+        "rank": "337"
+    },
+    {
+        "URL": "https://www.economist.com/business/2024/07/28/what-could-kill-the-1trn-artificial-intelligence-boom",
+        "title": "What are the threats to the AI boom? (economist.com)",
+        "rank": "338"
+    },
+    {
+        "URL": "https://cloud.google.com/blog/products/data-analytics/airflow-dag-and-task-concurrency-in-cloud-composer/",
+        "title": "Understanding Airflow DAG and Task Concurrency on Google Cloud Composer (cloud.google.com)",
+        "rank": "339"
+    },
+    {
+        "URL": "https://www.atlasobscura.com/articles/how-to-roast-eggs-in-ash",
+        "title": "The Lost Art of Roasting Eggs in Ash (atlasobscura.com)",
+        "rank": "340"
+    },
+    {
+        "URL": "https://www.forensicmag.com/3594-All-News/614283-Police-in-the-UK-Use-Forensic-Spray-to-Tag-Illegal-Bikers/",
+        "title": "Police in the UK Use Forensic Spray to Tag Illegal Bikers (forensicmag.com)",
+        "rank": "341"
+    },
+    {
+        "URL": "https://devclass.com/2024/07/31/aws-quietly-freezes-codecommit-now-closed-to-new-customers-also-breaking-its-control-tower-templates/",
+        "title": "AWS freezes CodeCommit, Cloud9, SimpleDB and more (devclass.com)",
+        "rank": "342"
+    },
+    {
+        "URL": "https://abcnews.go.com/International/complex-life-forms-existed-15-billion-years-earlier/story?id=112377072",
+        "title": "Complex life forms existed 1.5B years earlier than believed, study finds (go.com)",
+        "rank": "343"
+    },
+    {
+        "URL": "https://www.newyorker.com/magazine/2024/08/05/my-mother-the-gambler",
+        "title": "My Mother, the Gambler (newyorker.com)",
+        "rank": "344"
+    },
+    {
+        "URL": "item?id=41107413",
+        "title": "Ask HN: How do you learn digital marketing?",
+        "rank": "345"
+    },
+    {
+        "URL": "https://appleinsider.com/articles/24/07/31/apple-arcade-developers-say-working-with-apple-is-like-being-in-an-abusive-relationship",
+        "title": "Apple Arcade developers say working with Apple is like in 'abusive relationship' (appleinsider.com)",
+        "rank": "346"
+    },
+    {
+        "URL": "https://www.hystruct.com/tools/magic-tables",
+        "title": "Show HN: Magic Tables \u2013 Website to CSV/JSON (hystruct.com)",
+        "rank": "347"
+    },
+    {
+        "URL": "https://medium.com/javarevisited/40-must-read-white-papers-to-learn-system-design-and-software-architecture-775c4197f9c8",
+        "title": "White Papers to Learn System Design and Software Architecture (medium.com/javarevisited)",
+        "rank": "348"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/29/meta_ai_safety/",
+        "title": "Meta's AI safety system defeated by the space bar (theregister.com)",
+        "rank": "349"
+    },
+    {
+        "URL": "https://lpanaf.github.io/eccv24_glomap/",
+        "title": "GLOMAP \u2013 Global Structure-from-Motion Revisited (lpanaf.github.io)",
+        "rank": "350"
+    },
+    {
+        "URL": "item?id=41110169",
+        "title": "Ask HN: Any Bay Area Contracting Co-Ops or Job Shops?",
+        "rank": "351"
+    },
+    {
+        "URL": "https://bentsukun.ch/posts/fedora-asahi/",
+        "title": "Fedora Asahi Remix (bentsukun.ch)",
+        "rank": "352"
+    },
+    {
+        "URL": "https://thecausalfallacy.com/p/serious-mental-illness-is-an-optimization",
+        "title": "Serious mental illness is an optimization problem (thecausalfallacy.com)",
+        "rank": "353"
+    },
+    {
+        "URL": "http://metaphors.iath.virginia.edu/metaphors/17736",
+        "title": "A man's brain is like a little empty attic (1887) (virginia.edu)",
+        "rank": "354"
+    },
+    {
+        "URL": "https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/",
+        "title": "AWS Deprecates CodeCommit (amazon.com)",
+        "rank": "355"
+    },
+    {
+        "URL": "https://twitter.com/AkiyoshiKitaoka/status/1818454291608207729",
+        "title": "Donkey Kong Arcade Illusion (twitter.com/akiyoshikitaoka)",
+        "rank": "356"
+    },
+    {
+        "URL": "https://www.kron4.com/news/bay-area/san-francisco-becomes-first-u-s-city-to-ban-automated-rent-fixing-technology/",
+        "title": "San Francisco becomes first US city to ban automated rent-fixing technology (kron4.com)",
+        "rank": "357"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s41422-024-00975-8",
+        "title": "RNA: Coding, or non-coding, that is the question (nature.com)",
+        "rank": "358"
+    },
+    {
+        "URL": "https://www.idiotlamborghini.com/strategies/weave",
+        "title": "Weave: A Tool to Track How Your Habits Work Together (idiotlamborghini.com)",
+        "rank": "359"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/31/amd_q2_2024/",
+        "title": "AMD sold $1B of Instinct GPUs in 2Q, driving 3-digit datacenter growth (theregister.com)",
+        "rank": "360"
+    },
+    {
+        "URL": "https://giza.mused.com/en/guided/266/inside-the-great-pyramid",
+        "title": "Now you can virtually walk inside the Great Pyramid (mused.com)",
+        "rank": "361"
+    },
+    {
+        "URL": "https://www.scientificamerican.com/article/combining-ayahuasca-compound-with-drugs-like-ozempic-could-help-treat/",
+        "title": "Combining Ayahuasca Compound with Drugs Like Ozempic Could Treat Diabetes Mice (scientificamerican.com)",
+        "rank": "362"
+    },
+    {
+        "URL": "https://twitter.com/adityapatadia/status/1818369299876077788",
+        "title": "Google's Gemini demos are still fake and can't be reproduced (twitter.com/adityapatadia)",
+        "rank": "363"
+    },
+    {
+        "URL": "https://www.techdirt.com/2024/07/30/senate-to-kids-well-listen-when-you-agree-with-us-on-kosa/",
+        "title": "Senate to Kids: We'll Listen to You When You Agree with Us on KOSA (techdirt.com)",
+        "rank": "364"
+    },
+    {
+        "URL": "item?id=41108435",
+        "title": "Ask HN: Figma web/desktop app architecture",
+        "rank": "365"
+    },
+    {
+        "URL": "https://cosmodoc.org/",
+        "title": "How Cosmo's Cosmic Adventure DOS Game Works? (cosmodoc.org)",
+        "rank": "366"
+    },
+    {
+        "URL": "https://english.elpais.com/international/2024-07-30/javier-mileis-government-will-monitor-social-media-with-ai-to-predict-future-crimes.html",
+        "title": "Milei's government will monitor social media with AI to 'predict future crimes' (elpais.com)",
+        "rank": "367"
+    },
+    {
+        "URL": "https://phys.org/news/2024-07-future-sovereign-mars-economy.html",
+        "title": "What could a future sovereign Mars economy look like? (phys.org)",
+        "rank": "368"
+    },
+    {
+        "URL": "https://arxiv.org/abs/2407.19909",
+        "title": "Substantial Risk of Atlantic Circulation Tipping Under Moderate Climate Change (arxiv.org)",
+        "rank": "369"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/M-497_Black_Beetle",
+        "title": "M-497 Black Beetle \u2013 experimental jet-powered railcar (wikipedia.org)",
+        "rank": "370"
+    },
+    {
+        "URL": "https://lwn.net/SubscriberLink/983340/0b9eb25f2166789b/",
+        "title": "Pulling Linux up by its bootstraps (lwn.net)",
+        "rank": "371"
+    },
+    {
+        "URL": "https://newsletter.goodtechthings.com/p/the-end-of-the-everything-cloud",
+        "title": "The end of the Everything Cloud (goodtechthings.com)",
+        "rank": "372"
+    },
+    {
+        "URL": "https://github.com/pallene-lang/pallene/blob/master/doc/manual.md",
+        "title": "Pallene: A statically compiled companion language for Lua (github.com/pallene-lang)",
+        "rank": "373"
+    },
+    {
+        "URL": "https://herbsutter.com/2024/07/28/cppfront-midsummer-update/",
+        "title": "Cppfront: Midsummer Update (herbsutter.com)",
+        "rank": "374"
+    },
+    {
+        "URL": "https://sfwriter.com/ws7.htm",
+        "title": "Complete WordStar 7.0 Archive (sfwriter.com)",
+        "rank": "375"
+    },
+    {
+        "URL": "https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta",
+        "title": "William James and a Theory of Thinking (2004) [pdf] (aisnet.org)",
+        "rank": "376"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo",
+        "title": "One Question Saved Ferrari from a Deepfake Scam (bloomberg.com)",
+        "rank": "377"
+    },
+    {
+        "URL": "https://www.insidehighered.com/news/2013/02/12/students-boycott-final-challenge-professors-grading-policy-and-get",
+        "title": "The Game Theory Behind Acing an Exam (2013) (insidehighered.com)",
+        "rank": "378"
+    },
+    {
+        "URL": "item?id=41105348",
+        "title": "Ask HN: What are the best resources today for learning AI/LLMs",
+        "rank": "379"
+    },
+    {
+        "URL": "https://www.queriestation.com/seo",
+        "title": "Show HN: I built an SEO dashboard template to help you grow your website (queriestation.com)",
+        "rank": "380"
+    },
+    {
+        "URL": "https://www.neowin.net/news/a-third-of-ai-projects-will-be-abandoned-by-businesses-by-the-end-of-next-year/",
+        "title": "A third of AI projects will be abandoned by businesses by the end of next year (neowin.net)",
+        "rank": "381"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Social_trap",
+        "title": "Social Trap (wikipedia.org)",
+        "rank": "382"
+    },
+    {
+        "URL": "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/",
+        "title": "Is Cloudflare overcharging us for their images service? (jpetazzo.github.io)",
+        "rank": "383"
+    },
+    {
+        "URL": "https://www.wsj.com/video/series/tesla-autopilot/how-hackers-and-mechanics-unearth-teslas-hidden-autopilot-data/4B08ADEA-F38E-4EBF-91FD-485CE13079A8",
+        "title": "Hackers and Mechanics Unearth Tesla's Hidden Autopilot Data (wsj.com)",
+        "rank": "384"
+    },
+    {
+        "URL": "https://www.newsweek.com/white-dudes-harris-x-suspension-1931827",
+        "title": "'White Dudes for Harris' X Suspension Sparks Fury: 'Election Interference' (newsweek.com)",
+        "rank": "385"
+    },
+    {
+        "URL": "https://www.servethehome.com/stopping-the-cardinal-sin-of-colocation-rack-power-sizing-supermicro/",
+        "title": "Stopping the Cardinal Sin of Colocation Rack Power Sizing (servethehome.com)",
+        "rank": "386"
+    },
+    {
+        "URL": "https://nicole.express/2024/studio-two-part-two.html",
+        "title": "The RCA Studio II in Living Monochrome (nicole.express)",
+        "rank": "387"
+    },
+    {
+        "URL": "https://radicalcontributions.substack.com/p/monetization-amp-monopolies-how-the-internet-you-loved-died",
+        "title": "Monetization and Monopolies: How the Internet You Loved Died (radicalcontributions.substack.com)",
+        "rank": "388"
+    },
+    {
+        "URL": "item?id=41111720",
+        "title": "Ask HN: How do I save my content from AI crawlers?",
+        "rank": "389"
+    },
+    {
+        "URL": "https://www.iflscience.com/a-new-particle-has-been-discovered-and-it-could-be-the-elusive-glueball-74100",
+        "title": "A New Particle Has Been Discovered \u2013 It Could Be the Elusive Glueball (iflscience.com)",
+        "rank": "390"
+    },
+    {
+        "URL": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2024-Results-2024.pdf",
+        "title": "Meta Reports Second Quarter 2024 Results [pdf] (q4cdn.com)",
+        "rank": "391"
+    },
+    {
+        "URL": "https://igorstechnoclub.com/string-formatting-in-java-with-messageformat/",
+        "title": "Java String.format vs. MessageFormat (igorstechnoclub.com)",
+        "rank": "392"
+    },
+    {
+        "URL": "https://www.schneier.com/essays/archives/1992/04/sharing_secrets_amon.html",
+        "title": "Sharing Secrets Among Friends (1992) (schneier.com)",
+        "rank": "393"
+    },
+    {
+        "URL": "https://bigthink.com/the-well/how-does-matter-become-life-assembly-theory/",
+        "title": "How Matter becomes life, in 7 minutes (bigthink.com)",
+        "rank": "394"
+    },
+    {
+        "URL": "https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently",
+        "title": "What we would've done differently in the first year of bootstrapping our company (foundersconfidential418.substack.com)",
+        "rank": "395"
+    },
+    {
+        "URL": "https://x.com/arstechnica/status/1818325952553947517",
+        "title": "GrapheneOS may take legal action against Google regarding Play Integrity API (x.com)",
+        "rank": "396"
+    },
+    {
+        "URL": "https://www.forbes.com/sites/charlesradclyffe/2024/07/31/yale-plans-to-lock-out-early-adopters-from-their-homes-tonight/",
+        "title": "Yale Plans to Lock-Out Early Adopters from Their Homes Tonight (forbes.com/sites/charlesradclyffe)",
+        "rank": "397"
+    },
+    {
+        "URL": "https://www.dexerto.com/tech/openai-on-verge-of-bankruptcy-heading-for-5-billion-in-losses-report-2839622/",
+        "title": "OpenAI on verge of bankruptcy and heading for $5B in losses: Report (dexerto.com)",
+        "rank": "398"
+    },
+    {
+        "URL": "https://butterfly-conservation.org/news-and-blog/where-are-all-the-butterflies",
+        "title": "Where are all the Butterflies? (butterfly-conservation.org)",
+        "rank": "399"
+    },
+    {
+        "URL": "https://hamel.dev/blog/posts/course/",
+        "title": "An Open Course on LLMs, Led by Practitioners (hamel.dev)",
+        "rank": "400"
+    },
+    {
+        "URL": "https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables",
+        "title": "Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables (phoronix.com)",
+        "rank": "401"
+    },
+    {
+        "URL": "https://ogxd.github.io/articles/unsafe-read-beyond-of-death/",
+        "title": "Unsafe Read Beyond of Death (ogxd.github.io)",
+        "rank": "402"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-07-29/french-internet-cables-severed-in-latest-attack-during-olympics",
+        "title": "French Internet Lines Cut in Latest Attack During Olympics (bloomberg.com)",
+        "rank": "403"
+    },
+    {
+        "URL": "https://www.theatlantic.com/podcasts/archive/2024/07/texas-solar-wind-renewable-energy-climate-change/679281/",
+        "title": "Why Is Texas Beating California in the Renewable-Energy Race? (theatlantic.com)",
+        "rank": "404"
+    },
+    {
+        "URL": "https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/",
+        "title": "The Impact of AI on Computer Science Education (acm.org)",
+        "rank": "405"
+    },
+    {
+        "URL": "https://www.theguardian.com/business/article/2024/jul/30/air-new-zealand-is-first-major-airline-to-scrap-2030-emissions-target",
+        "title": "Air New Zealand is first major airline to scrap 2030 emissions target (theguardian.com)",
+        "rank": "406"
+    },
+    {
+        "URL": "https://santandersecurityresearch.github.io/blog/sshing_the_masses.html",
+        "title": "The Wild West of Proof of Concept Exploit Code (PoC) (santandersecurityresearch.github.io)",
+        "rank": "407"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/29/business/retirement-savings-scams.html",
+        "title": "One Man Lost $740k to Scammers Targeting His Retirement Savings (nytimes.com)",
+        "rank": "408"
+    },
+    {
+        "URL": "https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf",
+        "title": "Nike: An Epic Saga of Value Destruction (linkedin.com)",
+        "rank": "409"
+    },
+    {
+        "URL": "https://soatok.blog/2024/07/31/what-does-it-mean-to-be-a-signal-competitor/",
+        "title": "What Does It Mean to Be a Signal Competitor? (soatok.blog)",
+        "rank": "410"
+    },
+    {
+        "URL": "https://wubi98.github.io/",
+        "title": "A beautiful website for wubi98 \u00e2\u20ac\u201c Considered as a missing standard (wubi98.github.io)",
+        "rank": "411"
+    },
+    {
+        "URL": "https://mailchi.mp/ladybird/july-2024",
+        "title": "This Month in Ladybird: July 2024 (mailchi.mp)",
+        "rank": "412"
+    },
+    {
+        "URL": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+        "title": "Red Team Tools Collection (github.com/infosecn1nja)",
+        "rank": "413"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/30/24209395/dashlane-passkey-report-adoption-passwordless-sign-on",
+        "title": "Passkey adoption has increased by 400 percent in 2024 (theverge.com)",
+        "rank": "414"
+    },
+    {
+        "URL": "https://www.bloomberg.com/news/articles/2024-08-01/us-reporter-released-by-russia-in-multi-country-prisoner-swap",
+        "title": "US Reporter Released by Russia in Multi-Country Prisoner Swap (bloomberg.com)",
+        "rank": "415"
+    },
+    {
+        "URL": "https://pivot-to-ai.com/2024/07/29/anthropic-is-scraping-websites-so-fast-its-causing-problems/",
+        "title": "Anthropic is scraping websites so fast it's causing problems (pivot-to-ai.com)",
+        "rank": "416"
+    },
+    {
+        "URL": "https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models",
+        "title": "Apple Intelligence Foundation Language Models (machinelearning.apple.com)",
+        "rank": "417"
+    },
+    {
+        "URL": "https://unskilled.blog/posts/coroutines-in-go/",
+        "title": "Coroutines in Go: Runtime Implementation and Iterators (unskilled.blog)",
+        "rank": "418"
+    },
+    {
+        "URL": "https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/",
+        "title": "Ferrari exec foils deepfake attempt by asking a question only CEO could answer (fortune.com)",
+        "rank": "419"
+    },
+    {
+        "URL": "https://diff.wikimedia.org/2024/07/23/us-supreme-court-ruling-on-netchoice-cases-what-does-it-mean-for-wikipedia/",
+        "title": "US Supreme Court ruling on NetChoice cases: What does it mean for Wikipedia? (wikimedia.org)",
+        "rank": "420"
+    },
+    {
+        "URL": "https://phys.org/news/2024-07-complex-life-earth-began-billion.html",
+        "title": "Complex life began around 1.5B years earlier than previously thought (phys.org)",
+        "rank": "421"
+    },
+    {
+        "URL": "https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062",
+        "title": "There is no mystery over who wrote the Blue Screen of Death (microsoft.com)",
+        "rank": "422"
+    },
+    {
+        "URL": "https://au.pcmag.com/security/106572/shareholders-sue-crowdstrike-after-outage-prompts-stock-price-to-plummet",
+        "title": "Shareholders Sue CrowdStrike After Outage Prompts Stock Price to Plummet (pcmag.com)",
+        "rank": "423"
+    },
+    {
+        "URL": "https://jameshalsall.co.uk/posts/why-soft-deletes-are-evil-and-what-to-do-instead",
+        "title": "Why soft deletes are evil and what to do instead (jameshalsall.co.uk)",
+        "rank": "424"
+    },
+    {
+        "URL": "https://www.noahpinion.blog/p/why-did-the-us-miss-the-battery-revolution",
+        "title": "Why did the U.S. miss the battery revolution? (noahpinion.blog)",
+        "rank": "425"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/24/business/media/rupert-murdoch-succession-fox.html",
+        "title": "The Secret Battle for the Future of the Murdoch Empire (nytimes.com)",
+        "rank": "426"
+    },
+    {
+        "URL": "https://www.myfonts.com/pages/fontscom-learning-fontology-level-3-numbers-oldstyle-figures",
+        "title": "Oldstyle Figures (myfonts.com)",
+        "rank": "427"
+    },
+    {
+        "URL": "https://medium.com/@dogichow/whats-wrong-with-3d-printing-and-why-we-acquired-micronics-9b3d4e569b36",
+        "title": "What's wrong with 3D printing? (and why we acquired Micronics) (medium.com/dogichow)",
+        "rank": "428"
+    },
+    {
+        "URL": "https://web.archive.org/web/20021021164226/http://www.securityoffice.net/mssecrets/hotmail.html",
+        "title": "Approach used to convert the Hotmail web server farm from Unix to Windows (2002) (archive.org)",
+        "rank": "429"
+    },
+    {
+        "URL": "https://www.newyorker.com/news/dispatch/reimagining-china-in-tokyo",
+        "title": "Reimagining China in Tokyo (newyorker.com)",
+        "rank": "430"
+    },
+    {
+        "URL": "https://www.sfgate.com/tech/article/sf-realpage-software-ban-aaron-peskin-19610723.php",
+        "title": "Hoping to cut San Francisco rents, supervisors approve software-pricing ban (sfgate.com)",
+        "rank": "431"
+    },
+    {
+        "URL": "https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory",
+        "title": "A protein called Reelin keeps popping up in brains that resist aging, Alzheimer (npr.org)",
+        "rank": "432"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
+        "title": "Reddit CEO says Microsoft needs to pay to search the site (theverge.com)",
+        "rank": "433"
+    },
+    {
+        "URL": "https://www.theguardian.com/society/article/2024/jul/31/almost-half-of-dementia-cases-could-be-prevented-or-delayed-study-finds",
+        "title": "Almost half of dementia cases could be prevented or delayed, study finds (theguardian.com)",
+        "rank": "434"
+    },
+    {
+        "URL": "https://ir.amd.com/news-events/ir-calendar/detail/6970/amd-fiscal-second-quarter-2024-financial-results",
+        "title": "AMD Fiscal Second Quarter 2024 Financial Results (amd.com)",
+        "rank": "435"
+    },
+    {
+        "URL": "https://github.com/trimstray/the-book-of-secret-knowledge",
+        "title": "The Book of Secret Knowledge (github.com/trimstray)",
+        "rank": "436"
+    },
+    {
+        "URL": "https://www.wsj.com/video/series/tesla-autopilot/the-hidden-autopilot-data-that-reveals-why-teslas-crash/68D26569-0251-4637-A035-A5131D8883B8",
+        "title": "The Autopilot Data That Reveals Why Teslas Crash (wsj.com)",
+        "rank": "437"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s41598-022-11104-z",
+        "title": "Cosmic time synchronizer (CTS) for wireless and precise time synchronization (nature.com)",
+        "rank": "438"
+    },
+    {
+        "URL": "https://www.askamanager.org/2011/10/how-to-let-your-staff-know-that-someone-was-fired.html",
+        "title": "How to let your staff know that someone was fired (askamanager.org)",
+        "rank": "439"
+    },
+    {
+        "URL": "https://social.clawhammer.net/blog/posts/2024-06-27-Adventure/",
+        "title": "Run Meetings Like a DM (clawhammer.net)",
+        "rank": "440"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/29/apple-releases-apple-intelligence-its-long-awaited-ai-features.html",
+        "title": "Apple releases first preview of its long-awaited iPhone AI (cnbc.com)",
+        "rank": "441"
+    },
+    {
+        "URL": "https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/",
+        "title": "FTC Wins Round Two in Its Non-Compete Ban Defense (jdsupra.com)",
+        "rank": "442"
+    },
+    {
+        "URL": "https://github.com/bryanmikaelian/clj-virtual-threads",
+        "title": "Show HN: Comparing JVM Virtual Threads vs. Real Threads in Clojure (github.com/bryanmikaelian)",
+        "rank": "443"
+    },
+    {
+        "URL": "https://www.theguardian.com/world/article/2024/jul/25/brazilian-rancher-ordered-pay-50m-damage-amazon",
+        "title": "Brazilian rancher ordered to pay $50M for damage to Amazon (theguardian.com)",
+        "rank": "444"
+    },
+    {
+        "URL": "https://twitter.com/Rainmaker1973/status/1598313153829421059",
+        "title": "Real life example of a brunnian link (twitter.com/rainmaker1973)",
+        "rank": "445"
+    },
+    {
+        "URL": "https://www.bloomberg.com/features/2024-bill-hwang-archegos-collapse-timeline/",
+        "title": "The Last 72 Hours of Archegos (bloomberg.com)",
+        "rank": "446"
+    },
+    {
+        "URL": "https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062",
+        "title": "There is no mystery over who wrote the Blue Screen of Death (microsoft.com)",
+        "rank": "447"
+    },
+    {
+        "URL": "https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/",
+        "title": "Hertz accelerates sales of Tesla vehicles as value crumbles (electrek.co)",
+        "rank": "448"
+    },
+    {
+        "URL": "https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/",
+        "title": "Max Space reinvents expandable habitats with a 17th-century twist (techcrunch.com)",
+        "rank": "449"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/30/lz4_gets_much_faster/",
+        "title": "Latest update for 'fast' compression algorithm LZ4 sprints past old versions (theregister.com)",
+        "rank": "450"
+    },
+    {
+        "URL": "https://www.wsj.com/video/series/tesla-autopilot/the-hidden-autopilot-data-that-reveals-why-teslas-crash/68D26569-0251-4637-A035-A5131D8883B8",
+        "title": "The Autopilot Data That Reveals Why Teslas Crash (wsj.com)",
+        "rank": "451"
+    },
+    {
+        "URL": "https://bigthink.com/starts-with-a-bang/isaac-newton-oldest-question/",
+        "title": "Modern astrophysics answers Isaac Newton's oldest question (bigthink.com)",
+        "rank": "452"
+    },
+    {
+        "URL": "https://electrek.co/2024/08/01/hertz-accelerates-sales-of-tesla-vehicles-as-value-crumbles/",
+        "title": "Hertz accelerates sales of Tesla vehicles as value crumbles (electrek.co)",
+        "rank": "453"
+    },
+    {
+        "URL": "https://cassidoo.co/post/getting-paid-is-weird/",
+        "title": "Getting paid is weird and sometimes hard (cassidoo.co)",
+        "rank": "454"
+    },
+    {
+        "URL": "https://deno.com/blog/http-imports",
+        "title": "Deno: What we got wrong about HTTP imports (deno.com)",
+        "rank": "455"
+    },
+    {
+        "URL": "https://www.ccdatalab.org/blog/a-desperate-plea-for-a-free-software-alternative-to-aspera",
+        "title": "A Desperate Plea for a Free Software Alternative to Aspera (2019) (ccdatalab.org)",
+        "rank": "456"
+    },
+    {
+        "URL": "https://undark.org/2024/07/23/hurricane-beryl-exposes-houston-weaknesses/",
+        "title": "A Hurricane Exposes Houston's Infrastructure Weaknesses \u2013 Again (undark.org)",
+        "rank": "457"
+    },
+    {
+        "URL": "https://en.osm.town/@Firefishy/112875549871566269",
+        "title": "Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation? (osm.town)",
+        "rank": "458"
+    },
+    {
+        "URL": "https://qz.com/google-alphabet-anthropic-investment-investigation-1851608599",
+        "title": "Google's multi-billion dollar relationship with Anthropic is under investigation (qz.com)",
+        "rank": "459"
+    },
+    {
+        "URL": "https://time.com/6313270/doctors-overworked-patients-access/",
+        "title": "Why It Takes Forever to Get a Doctor's Appointment (2023) (time.com)",
+        "rank": "460"
+    },
+    {
+        "URL": "https://phys.org/news/2024-07-reveals-people-evolve.html",
+        "title": "New study finds people alter their appearance to suit their names (phys.org)",
+        "rank": "461"
+    },
+    {
+        "URL": "https://www.cam.ac.uk/research/news/incidence-of-heart-attacks-and-strokes-was-lower-after-covid-19-vaccination",
+        "title": "Incidence of heart attacks and strokes was lower after Covid vaccination (cam.ac.uk)",
+        "rank": "462"
+    },
+    {
+        "URL": "https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic",
+        "title": "I love you, HN, but you're toxic (2022) (kg.dev)",
+        "rank": "463"
+    },
+    {
+        "URL": "https://vanillaos.org/blog/article/2024-07-28/vanilla-os-2-orchid---stable-release",
+        "title": "Vanilla OS 2 Orchid \u2013 Stable Release (vanillaos.org)",
+        "rank": "464"
+    },
+    {
+        "URL": "https://github.com/SimonBlanke/Gradient-Free-Optimizers",
+        "title": "New release of Gradient-Free-Optimizers with two new evolutionary algorithms (github.com/simonblanke)",
+        "rank": "465"
+    },
+    {
+        "URL": "https://www.reuters.com/technology/artificial-intelligence/microsofts-costs-focus-fears-rise-over-slow-payoff-ai-2024-07-29/",
+        "title": "Microsoft's costs in focus as fears rise over slow payoff from AI (reuters.com)",
+        "rank": "466"
+    },
+    {
+        "URL": "https://www.eff.org/deeplinks/2024/07/digital-apartheid-gaza-unjust-content-moderation-request-israels-cyber-unit",
+        "title": "Unjust content moderation at the request of Israel\u2019s cyber unit (eff.org)",
+        "rank": "467"
+    },
+    {
+        "URL": "https://www.sfgate.com/tech/article/moxion-power-furlough-staff-huelskamp-19589960.php",
+        "title": "Bay Area battery maker that raised $110M furloughs staff, shutdown likley (sfgate.com)",
+        "rank": "468"
+    },
+    {
+        "URL": "https://longform.asmartbear.com/authentic-is-dead/",
+        "title": "\"Authentic\" is dead. And so is \"is dead.\" (asmartbear.com)",
+        "rank": "469"
+    },
+    {
+        "URL": "https://hexdocs.pm/check_maybe_div_by_zero/",
+        "title": "Check Maybe Div by Zero for Gleam (hexdocs.pm)",
+        "rank": "470"
+    },
+    {
+        "URL": "item?id=41097481",
+        "title": "How do you follow news on tech and stay upto date?",
+        "rank": "471"
+    },
+    {
+        "URL": "https://mashable.com/article/youtube-black-screen-ad-blockers",
+        "title": "YouTube's war on ad blockers continues, now making ads unskippable (mashable.com)",
+        "rank": "472"
+    },
+    {
+        "URL": "item?id=41097436",
+        "title": "Ask HN: Lightweight desktop client for managing pull requests?",
+        "rank": "473"
+    },
+    {
+        "URL": "item?id=41110502",
+        "title": "Ask HN: Returning to tech after 4 years?",
+        "rank": "474"
+    },
+    {
+        "URL": "https://www.ptsecurity.com/ww-en/analytics/apt-groups-in-southeast-asia/",
+        "title": "How APT groups operate in Southeast Asia (ptsecurity.com)",
+        "rank": "475"
+    },
+    {
+        "URL": "https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak",
+        "title": "Bypassing Meta's Llama Classifier: A Simple Jailbreak (robustintelligence.com)",
+        "rank": "476"
+    },
+    {
+        "URL": "https://chromewebstore.google.com/detail/screen-canvas-draw-on-any/hkheabjfgcabjmgbdajcmkaokaeimhnc",
+        "title": "Show HN: Screen Canvas \u2013 Draw, Highlight and Take Notes on Any Web Page (chromewebstore.google.com)",
+        "rank": "477"
+    },
+    {
+        "URL": "https://www.phoronix.com/news/Xen-4.19-Released",
+        "title": "Xen 4.19 Released With New 9pfs Back end, Scales Up To 16,383 CPUs (phoronix.com)",
+        "rank": "478"
+    },
+    {
+        "URL": "https://arstechnica.com/space/2024/07/boeing-warns-of-more-financial-losses-on-starliner-commercial-crew-program/",
+        "title": "Boeing's Starliner has cost at least twice as much as SpaceX's Crew Dragon (arstechnica.com)",
+        "rank": "479"
+    },
+    {
+        "URL": "https://www.sciencedirect.com/science/article/pii/S0022316624002803",
+        "title": "Diet impacts metabolic disease via gut microbiota alterations (sciencedirect.com)",
+        "rank": "480"
+    },
+    {
+        "URL": "https://finance.yahoo.com/news/metas-reality-check-inside-the-45-billion-cash-burn-at-reality-labs-125717347.html",
+        "title": "Meta's reality check: Inside the $45B cash burn at Reality Labs (yahoo.com)",
+        "rank": "481"
+    },
+    {
+        "URL": "https://www.spamhaus.org/resource-hub/service-providers/too-big-to-care-our-disappointment-with-cloudflares-anti-abuse-posture/",
+        "title": "Too big to care? Our disappointment with Cloudflare anti-abuse posture (spamhaus.org)",
+        "rank": "482"
+    },
+    {
+        "URL": "item?id=41096490",
+        "title": "Ask HN: Do modern AI engines still need to do full re-trainings?",
+        "rank": "483"
+    },
+    {
+        "URL": "https://fakepaper.app/",
+        "title": "Fake Paper Generator (fakepaper.app)",
+        "rank": "484"
+    },
+    {
+        "URL": "https://www.theguardian.com/world/article/2024/jul/28/brazil-radical-plan-tax-global-super-rich-tackle-climate-crisis",
+        "title": "Brazil's plan to tax global super-rich to tackle climate crisis (theguardian.com)",
+        "rank": "485"
+    },
+    {
+        "URL": "https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en",
+        "title": "Stop Destroying Videogames \u2013 European Citizens' Initiative (europa.eu)",
+        "rank": "486"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/30/russia-considers-legalizing-crypto-as-a-form-of-payment-amid-sanctions.html",
+        "title": "Russia legalizes crypto for cross-border trade (cnbc.com)",
+        "rank": "487"
+    },
+    {
+        "URL": "https://www.tomshardware.com/tech-industry/big-tech/intel-allegedly-plans-imminent-lay-off-of-thousands-of-employees-report",
+        "title": "Intel allegedly plans imminent lay off of employees to fuel turnaround (tomshardware.com)",
+        "rank": "488"
+    },
+    {
+        "URL": "https://www.sciencealert.com/brain-invading-parasite-could-be-hacked-to-deliver-meds-in-your-head",
+        "title": "Brain-Invading Parasite Could Be Hacked to Deliver Meds in Your Head (sciencealert.com)",
+        "rank": "489"
+    },
+    {
+        "URL": "item?id=41125070",
+        "title": "Ask HN: Junior dev and I don't want to compete in this job market. Any advice?",
+        "rank": "490"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=Z8WKR0VHfJw",
+        "title": "AMD Threw the Match but Won Anyway \u2013 Strix Point Ryzen AI 300 Review [video] (youtube.com)",
+        "rank": "491"
+    },
+    {
+        "URL": "https://www.theregister.com/2024/07/30/meta_texas_settlement/",
+        "title": "Meta to pay $1.4B to end facial biometrics lawsuit in US (theregister.com)",
+        "rank": "492"
+    },
+    {
+        "URL": "http://www.hisutton.com/Ukraine-USV-Jetski.html",
+        "title": "Ukrainian Weaponized Yamaha Jet Ski with Starlink Antenna (hisutton.com)",
+        "rank": "493"
+    },
+    {
+        "URL": "https://www.ocregister.com/2024/07/30/disneyland-unions-agree-to-historic-31-pay-raise/",
+        "title": "Disneyland unions agree to 'historic' 31% pay raise (ocregister.com)",
+        "rank": "494"
+    },
+    {
+        "URL": "https://github.com/e2b-dev/ai-artifacts",
+        "title": "Open Source Claude Artifacts (github.com/e2b-dev)",
+        "rank": "495"
+    },
+    {
+        "URL": "https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/",
+        "title": "Bumble and Hinge allowed stalkers to pinpoint users' locations down to 2 meters (techcrunch.com)",
+        "rank": "496"
+    },
+    {
+        "URL": "item?id=41094791",
+        "title": "Does Llama-3 405B \"solve\" Q6 from IMO 2024?",
+        "rank": "497"
+    },
+    {
+        "URL": "https://mccue.dev/pages/7-31-24-rust-just-failed-its-test",
+        "title": "Rust Just Failed an Important Test (mccue.dev)",
+        "rank": "498"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s44335-024-00003-3",
+        "title": "Magnetic tunnel junction-based computational random-access memory (nature.com)",
+        "rank": "499"
+    },
+    {
+        "URL": "https://www.canva.com/newsroom/news/leonardo-ai/",
+        "title": "Welcome to Canva, Leonardo (canva.com)",
+        "rank": "500"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/29/24208741/super-nintendo-upgrade-voultar-edge-enhancer-mod",
+        "title": "$60 chip fixes a longstanding Super Nintendo flaw (theverge.com)",
+        "rank": "501"
+    },
+    {
+        "URL": "https://www.microchip.com/en-us/about/media-center/blog/2024/microchip-technology-enters-64-bit-microprocessor-market",
+        "title": "Microchip Technology Enters 64-Bit Microprocessor Market (RISC-V) (microchip.com)",
+        "rank": "502"
+    },
+    {
+        "URL": "https://estuary.dev/memory-efficient-streaming-parquet/",
+        "title": "Memory Efficient Data Streaming to Parquet Files (estuary.dev)",
+        "rank": "503"
+    },
+    {
+        "URL": "item?id=41098826",
+        "title": "Best device for a kid to learn how to code?",
+        "rank": "504"
+    },
+    {
+        "URL": "item?id=41116614",
+        "title": "Ask HN: How would I make an AI model that is trained on 2000 text documents?",
+        "rank": "505"
+    },
+    {
+        "URL": "https://isuckatcs.github.io/how-to-compile-your-language/",
+        "title": "How to Compile Your Language \u2013 Guide to implement a modern compiler for language (isuckatcs.github.io)",
+        "rank": "506"
+    },
+    {
+        "URL": "https://rust-for-rustaceans.com/",
+        "title": "Rust for Rustaceans (rust-for-rustaceans.com)",
+        "rank": "507"
+    },
+    {
+        "URL": "https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d",
+        "title": "Java 21 Virtual Threads \u2013 Dude, Where's My Lock? (netflixtechblog.com)",
+        "rank": "508"
+    },
+    {
+        "URL": "item?id=41120399",
+        "title": "Ask HN: What's the most interesting technical screening you've encountered?",
+        "rank": "509"
+    },
+    {
+        "URL": "https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/",
+        "title": "Xbox console sales continue to crater with 42% revenue drop (arstechnica.com)",
+        "rank": "510"
+    },
+    {
+        "URL": "https://stulle123.github.io/posts/kakaotalk/secret-chat/",
+        "title": "Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature (stulle123.github.io)",
+        "rank": "511"
+    },
+    {
+        "URL": "https://batteryuniversity.com/",
+        "title": "Battery University (batteryuniversity.com)",
+        "rank": "512"
+    },
+    {
+        "URL": "https://cointelegraph.com/news/us-lawmakers-letter-open-ai-requesting-government-access",
+        "title": "US lawmakers send a letter to OpenAI requesting government access (cointelegraph.com)",
+        "rank": "513"
+    },
+    {
+        "URL": "https://www.msn.com/en-gb/money/companies/boeing-names-new-ceo-as-it-posts-a-loss-of-more-than-1-4-billion-in-second-quarter/ar-BB1qXexl",
+        "title": "Boeing names new CEO as it posts a loss of more than $1.4B in 2nd quarter (msn.com)",
+        "rank": "514"
+    },
+    {
+        "URL": "https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/",
+        "title": "Tesla recalls 1.8M cars because their hoods can open while driving (arstechnica.com)",
+        "rank": "515"
+    },
+    {
+        "URL": "https://phys.org/news/2024-07-theory-reveals-fracture-mechanism-soft.html",
+        "title": "New theory reveals fracture mechanism in soft materials (phys.org)",
+        "rank": "516"
+    },
+    {
+        "URL": "https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo",
+        "title": "Australia starts world-first peanut allergy treatment for babies (bbc.co.uk)",
+        "rank": "517"
+    },
+    {
+        "URL": "https://huggingface.co/chat/",
+        "title": "HuggingChat \u2013 Chat UI for Llama 3.1 405B (huggingface.co)",
+        "rank": "518"
+    },
+    {
+        "URL": "https://www.techsistence.com/p/non-obvious-prompt-engineering-guide",
+        "title": "Non-Obvious Prompt Engineering Guide (techsistence.com)",
+        "rank": "519"
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/nation/2024/07/29/west-texas-earthquakes-explained/74590224007/",
+        "title": "West Texas hit by rash of earthquakes (usatoday.com)",
+        "rank": "520"
+    },
+    {
+        "URL": "https://makers-report.beehiiv.com/p/learn-skills-quickly",
+        "title": "How I learn new skills quickly (makers-report.beehiiv.com)",
+        "rank": "521"
+    },
+    {
+        "URL": "https://www.oecd-ilibrary.org",
+        "title": "OECD provides unrestricted access to all content (oecd-ilibrary.org)",
+        "rank": "522"
+    },
+    {
+        "URL": "https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/",
+        "title": "Our data isn't safe. Resist giving it up whenever you can (washingtonpost.com)",
+        "rank": "523"
+    },
+    {
+        "URL": "https://www.linux-magazine.com/Online/News/Debian-Based-eLxr-Distribution-Announced-for-Edge-Deployments",
+        "title": "Debian-Based ELxr Distribution Announced for Edge Deployments (linux-magazine.com)",
+        "rank": "524"
+    },
+    {
+        "URL": "https://www.gutenberg.org/files/690/690-h/690-h.htm",
+        "title": "Proposed Roads to Freedom by Bertrand Russell (gutenberg.org)",
+        "rank": "525"
+    },
+    {
+        "URL": "https://www.cnn.com/2024/07/29/tech/googles-ai-olympics-ad-backlash/index.html",
+        "title": "Google's Olympics ad went viral for all the wrong reasons (cnn.com)",
+        "rank": "526"
+    },
+    {
+        "URL": "https://shekhargulati.com/2024/07/30/building-a-youtube-video-summarizer-with-llm-and-yt-dlp/",
+        "title": "Building a YouTube Video Summarizer with LLM and yt-dlp (shekhargulati.com)",
+        "rank": "527"
+    },
+    {
+        "URL": "https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf",
+        "title": "Apple Intelligence Foundation Language Models [pdf] (machinelearning.apple.com)",
+        "rank": "528"
+    },
+    {
+        "URL": "https://singularityhub.com/2024/07/26/china-demonstrates-the-first-entirely-meltdown-proof-nuclear-reactor/",
+        "title": "China Demonstrates the First Meltdown-Proof Nuclear Reactor (singularityhub.com)",
+        "rank": "529"
+    },
+    {
+        "URL": "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/",
+        "title": "Amazon forced to recall 400K products that could kill, electrocute people (arstechnica.com)",
+        "rank": "530"
+    },
+    {
+        "URL": "https://boeing.mediaroom.com/2024-07-31-Boeing-Board-Names-Kelly-Ortberg-President-and-CEO",
+        "title": "Boeing Board Names Kelly Ortberg President and CEO (mediaroom.com)",
+        "rank": "531"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=Nyo5m_glZXs",
+        "title": "I coded an AI voice assistant using AssemblyAI, OpenAI and ElevenLabs (youtube.com)",
+        "rank": "532"
+    },
+    {
+        "URL": "item?id=41096028",
+        "title": "Ask HN: Are GPT wrapper companies \"AI\" companies?",
+        "rank": "533"
+    },
+    {
+        "URL": "item?id=41095897",
+        "title": "ASK HN: Some thoughts on a possible AST-aware org-mode three way merge driver",
+        "rank": "534"
+    },
+    {
+        "URL": "item?id=41110143",
+        "title": "Ask HN: Do you get offended when someone outside your area suggests an idea?",
+        "rank": "535"
+    },
+    {
+        "URL": "https://ops.group/blog/400-increase-in-gps-spoofing-workgroup-established/",
+        "title": "400% increase in GPS spoofing \u2013 workgroup established (ops.group)",
+        "rank": "536"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Z3_(computer)",
+        "title": "Z3 Computer \u2013 The First Digital Computer (wikipedia.org)",
+        "rank": "537"
+    },
+    {
+        "URL": "https://arstechnica.com/security/2024/07/cloudflare-once-again-comes-under-pressure-for-enabling-abusive-sites/",
+        "title": "Cloudflare once again comes under pressure for enabling abusive sites (arstechnica.com)",
+        "rank": "538"
+    },
+    {
+        "URL": "https://www.wired.com/story/simcity-libertarian-toy-land/",
+        "title": "'SimCity' Isn't a Model of Reality. It's a Libertarian Toy Land (wired.com)",
+        "rank": "539"
+    },
+    {
+        "URL": "https://www.wolframphysics.org/",
+        "title": "An approach to the fundamental theory of physics (wolframphysics.org)",
+        "rank": "540"
+    },
+    {
+        "URL": "https://boilingsteam.com/linux-distro-july-2024/",
+        "title": "Linux Distros Evolution over Time from 2019 to 2024 (boilingsteam.com)",
+        "rank": "541"
+    },
+    {
+        "URL": "https://www.popularfintech.com/p/what-visa-earnings-really-tell-us",
+        "title": "What Visa earnings tell us about the state of the payments industry (popularfintech.com)",
+        "rank": "542"
+    },
+    {
+        "URL": "https://www.theguardian.com/business/article/2024/jul/31/boeing-robert-kelly-ortberg-president-ceo",
+        "title": "Boeing names Robert 'Kelly' Ortberg as new president and CEO (theguardian.com)",
+        "rank": "543"
+    },
+    {
+        "URL": "https://www.404media.co/ai-friend-company-spent-1-8-million-and-most-its-funds-on-domain-name/",
+        "title": "AI 'Friend' Company Spent $1.8M and Most of Its Funds on Domain Name (404media.co)",
+        "rank": "544"
+    },
+    {
+        "URL": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/",
+        "title": "Third-party cookies have got to go (w3.org)",
+        "rank": "545"
+    },
+    {
+        "URL": "https://news.sky.com/story/microsoft-experiencing-new-wave-of-outages-weeks-after-global-it-failure-13187516",
+        "title": "Microsoft experiencing new wave of outages weeks after global IT failure (sky.com)",
+        "rank": "546"
+    },
+    {
+        "URL": "https://www.axios.com/2024/07/26/andrew-left-charges-doj-sec-short-seller",
+        "title": "Short-seller Andrew Left faces criminal, civil fraud charges (axios.com)",
+        "rank": "547"
+    },
+    {
+        "URL": "https://www.propeldata.com/blog/materialized-views-in-clickhouse",
+        "title": "Materialized views in ClickHouse: The data transformation Swiss Army knife (propeldata.com)",
+        "rank": "548"
+    },
+    {
+        "URL": "https://www.npr.org/2024/07/31/nx-s1-5058497/boeing-ceo-737max-kelly-ortberg",
+        "title": "Boeing hires aerospace industry veteran Robert \"Kelly\" Ortberg as next CEO (npr.org)",
+        "rank": "549"
+    },
+    {
+        "URL": "https://www.thedailybeast.com/delta-ceo-says-company-suing-microsoft-and-crowdstrike-after-dollar500m-loss",
+        "title": "Delta CEO: Company Suing Microsoft and CrowdStrike After $500M Loss (thedailybeast.com)",
+        "rank": "550"
+    },
+    {
+        "URL": "https://aimodelreview.com",
+        "title": "Compare 75 AI Models on 200 Prompts Side by Side (aimodelreview.com)",
+        "rank": "551"
+    },
+    {
+        "URL": "https://www.sciencealert.com/artificial-sweetener-may-be-wreaking-havoc-on-microorganisms",
+        "title": "Artificial Sweetener May Be Wreaking Havoc on Microorganisms (sciencealert.com)",
+        "rank": "552"
+    },
+    {
+        "URL": "https://today.uic.edu/dual-action-antibiotic-could-make-bacterial-resistance-nearly-impossible/",
+        "title": "Dual-action antibiotic could make bacterial resistance nearly impossible (uic.edu)",
+        "rank": "553"
+    },
+    {
+        "URL": "https://www.axios.com/2024/07/23/earth-hottest-day-record-set",
+        "title": "Earth likely just had its hottest two days in thousands of years (axios.com)",
+        "rank": "554"
+    },
+    {
+        "URL": "https://calcgpt.io/",
+        "title": "CalcGPT (calcgpt.io)",
+        "rank": "555"
+    },
+    {
+        "URL": "https://github.com/e-id-admin/open-source-community/blob/main/tech-roadmap/tech-roadmap.md",
+        "title": "Swiss E-ID and Trust Infrastructure \u00e2\u20ac\u201c Technical Roadmap (github.com/e-id-admin)",
+        "rank": "556"
+    },
+    {
+        "URL": "https://irenezhang.net/blog/2024/07/24/misogyny.html",
+        "title": "Moral Implications of Being Moderately Successful Computer Scientist and a Woman (irenezhang.net)",
+        "rank": "557"
+    },
+    {
+        "URL": "https://www.npr.org/sections/goats-and-soda/2024/07/26/nx-s1-5049852/gaza-polio-who",
+        "title": "Investigators search Gaza for cases of polio after virus found in wastewater (npr.org)",
+        "rank": "558"
+    },
+    {
+        "URL": "https://www.ghacks.net/2024/07/30/youtubes-server-side-ads-resulted-in-a-black-screen-for-ad-blocker-users/",
+        "title": "YouTube's server-side ads resulted in a black screen for ad blocker users (ghacks.net)",
+        "rank": "559"
+    },
+    {
+        "URL": "https://github.com/interregna/arraylanguage-companies",
+        "title": "A List of companies that use Array Languages (J, K, APL, q) (github.com/interregna)",
+        "rank": "560"
+    },
+    {
+        "URL": "https://www.biorxiv.org/content/10.1101/351619v1",
+        "title": "A group of Capuchin monkeys is entering the Stone Age (biorxiv.org)",
+        "rank": "561"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Scientism",
+        "title": "Scientism (wikipedia.org)",
+        "rank": "562"
+    },
+    {
+        "URL": "https://www.congress.gov/bill/118th-congress/senate-bill/1409",
+        "title": "Senate Passes Kids Online Safety Act (congress.gov)",
+        "rank": "563"
+    },
+    {
+        "URL": "https://www.vox.com/future-perfect/362399/billionaire-minimum-tax-andreessen-biden",
+        "title": "The billionaire tax proposal that's driving Silicon Valley to support Trump (vox.com)",
+        "rank": "564"
+    },
+    {
+        "URL": "https://antonz.org/go-concurrency/",
+        "title": "Show HN: I'm writing an interactive book on Go concurrency (antonz.org)",
+        "rank": "565"
+    },
+    {
+        "URL": "https://www.citationneeded.news/coinbase-campaign-finance-violation/",
+        "title": "Coinbase appears to have violated campaign finance laws with 25M donation (citationneeded.news)",
+        "rank": "566"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=w-cmMcMZoZ4",
+        "title": "AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg (youtube.com)",
+        "rank": "567"
+    },
+    {
+        "URL": "https://www.theatlantic.com/family/archive/2024/07/play-streets-children-adults/679258/",
+        "title": "What adults lost when kids stopped playing in the street (theatlantic.com)",
+        "rank": "568"
+    },
+    {
+        "URL": "https://news.itsfoss.com/fish-shell-rust-beta/",
+        "title": "Rust Port for Fish Shell Is Almost Ready for a Beta Release (itsfoss.com)",
+        "rank": "569"
+    },
+    {
+        "URL": "https://www.amigalove.com/viewtopic.php?t=2794",
+        "title": "The CMD FD-4000 Floppy Drive's Can Convert Disks from HD (1.4MB) to ED (3.2MB) (amigalove.com)",
+        "rank": "570"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/29/delta-hires-david-boies-to-seek-damages-from-crowdstrike-microsoft-.html",
+        "title": "Delta to Seek Damages from CrowdStrike (cnbc.com)",
+        "rank": "571"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/07/29/business/germany-solar-panels-climate-change.html",
+        "title": "Germans Combat Climate Change with DIY Solar Panels (nytimes.com)",
+        "rank": "572"
+    },
+    {
+        "URL": "https://www.ssp.sh/blog/obsidian-note-taking-workflow/",
+        "title": "My Obsidian note-taking workflow (ssp.sh)",
+        "rank": "573"
+    },
+    {
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/28873666/",
+        "title": "Carbon dioxide accumulation inside vehicles (2017) (nih.gov)",
+        "rank": "574"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/Stanhope_(optical_bijou)",
+        "title": "Stanhope (optical bijou) (wikipedia.org)",
+        "rank": "575"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=XexwYB-EqT0",
+        "title": "A Team Lead Uses Claude AI as His Virtual Senior Developer [video] (youtube.com)",
+        "rank": "576"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=KcWKTdkUpoQ",
+        "title": "Running the latest Llama 3.1 8B on Raspberry Pi [video] (youtube.com)",
+        "rank": "577"
+    },
+    {
+        "URL": "https://www.investopedia.com/us-consumer-tapped-out-economy-morning-consult-report-8684536",
+        "title": "US Consumers Are Increasingly 'Tapped Out' (investopedia.com)",
+        "rank": "578"
+    },
+    {
+        "URL": "https://workfractal.com",
+        "title": "Show HN: A minimalist, privacy-first site to sell your skills as a developer (workfractal.com)",
+        "rank": "579"
+    },
+    {
+        "URL": "https://www.mlive.com/environment/2024/07/its-always-sunny-in-space-michigan-startup-hopes-to-beam-solar-power-to-earth.html",
+        "title": "It's always sunny in space: Michigan startup hopes to beam solar power to Earth (mlive.com)",
+        "rank": "580"
+    },
+    {
+        "URL": "https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest",
+        "title": "Perfectionism \u2013 one of the biggest productivity killers in the eng industry (eng-leadership.com)",
+        "rank": "581"
+    },
+    {
+        "URL": "https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/",
+        "title": "California DMV puts 42M car titles on blockchain to fight fraud (reuters.com)",
+        "rank": "582"
+    },
+    {
+        "URL": "https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(poem)",
+        "title": "There Will Come Soft Rains Poem (wikipedia.org)",
+        "rank": "583"
+    },
+    {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2361517",
+        "title": "Advertising standards and the malpractice of unruly social media influencers (tandfonline.com)",
+        "rank": "584"
+    },
+    {
+        "URL": "https://github.com/fzliu/radient/blob/main/examples/multimodal_rag.md",
+        "title": "Multimodal RAG (With Meta Chameleon 7B) (github.com/fzliu)",
+        "rank": "585"
+    },
+    {
+        "URL": "https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations",
+        "title": "Meta blames hallucinations after its AI said Trump rally shooting didn't happen (theverge.com)",
+        "rank": "586"
+    },
+    {
+        "URL": "https://bigthink.com/high-culture/navajo-language/",
+        "title": "Why Navajo is one of the most difficult languages (2023) (bigthink.com)",
+        "rank": "587"
+    },
+    {
+        "URL": "https://peter.sh/experiments/chromium-command-line-switches/",
+        "title": "Chromium has over 1600 command-line switches (peter.sh)",
+        "rank": "588"
+    },
+    {
+        "URL": "https://kylenazario.com/blog/never-shop-at-gamestop",
+        "title": "GameStop Is Toast (kylenazario.com)",
+        "rank": "589"
+    },
+    {
+        "URL": "https://medium.com/@k.kozmana/common-side-effects-of-not-drinking-dd44714e619a",
+        "title": "Common side effects of not drinking (medium.com/k.kozmana)",
+        "rank": "590"
+    },
+    {
+        "URL": "https://www.bbc.com/news/articles/cpe3pppw1z7o",
+        "title": "We might never know the truth about ultra-processed foods (bbc.com)",
+        "rank": "591"
+    },
+    {
+        "URL": "https://www.theguardian.com/money/article/2024/aug/01/google-listed-my-restaurants-number-as-its-british-hq",
+        "title": "Google listed my restaurant's number as its British HQ (theguardian.com)",
+        "rank": "592"
+    },
+    {
+        "URL": "https://thetech.com/2024/07/11/anniversary-vannevar-bush-passing",
+        "title": "50th anniversary of Vannevar Bush's passing (thetech.com)",
+        "rank": "593"
+    },
+    {
+        "URL": "https://www.bbc.co.uk/news/articles/c903e793w74o",
+        "title": "Microsoft apologises after thousands report new outage (bbc.co.uk)",
+        "rank": "594"
+    },
+    {
+        "URL": "https://www.nytimes.com/2024/08/01/climate/david-keith-solar-geoengineering.html",
+        "title": "Scientist Wants to Block the Sun to Cool the Earth (nytimes.com)",
+        "rank": "595"
+    },
+    {
+        "URL": "https://twitter.com/cremieuxrecueil/status/1817249178017321257",
+        "title": "Share of total health spending, by percentile (twitter.com/cremieuxrecueil)",
+        "rank": "596"
+    },
+    {
+        "URL": "https://www.privacyguides.org/en/basics/hardware/",
+        "title": "Privacy Guides Adds New \"Hardware Recommendations\" Section (privacyguides.org)",
+        "rank": "597"
+    },
+    {
+        "URL": "https://github.com/eigilnikolajsen/commit-mono",
+        "title": "Commit Mono Font (github.com/eigilnikolajsen)",
+        "rank": "598"
+    },
+    {
+        "URL": "https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority",
+        "title": "All I Know About Certificates \u2013 Certificate Authority (pixelstech.net)",
+        "rank": "599"
+    },
+    {
+        "URL": "https://www.zdnet.com/article/microsoft-365-is-down-again/",
+        "title": "Microsoft 365 goes down \u2013 again (zdnet.com)",
+        "rank": "600"
+    },
+    {
+        "URL": "https://use-the-index-luke.com/no-offset",
+        "title": "Do not use offset for pagination (2014, updated 2021) (use-the-index-luke.com)",
+        "rank": "601"
+    },
+    {
+        "URL": "https://twitter.com/lmsysorg/status/1818694982980845685",
+        "title": "Gemma 2B: Scores better than GPT 3.5 Turbo (twitter.com/lmsysorg)",
+        "rank": "602"
+    },
+    {
+        "URL": "https://health.aws.amazon.com/health/status",
+        "title": "AWS Operational issue \u2013 Multiple services in us-east-1 (amazon.com)",
+        "rank": "603"
+    },
+    {
+        "URL": "https://www.indiehackers.com/post/scrapping-a-20k-investment-to-rebuild-in-bubble-ec07734432",
+        "title": "Scrapping a 20K investment to rebuild in bubble (indiehackers.com)",
+        "rank": "604"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=Qzw1m7PweXs",
+        "title": "Tsoding livestreams trying out C3 (programming language) [video] (youtube.com)",
+        "rank": "605"
+    },
+    {
+        "URL": "https://www.eff.org/deeplinks/2024/07/kosa-internet-censorship-bill-just-passed-senate-its-our-last-chance-stop-it",
+        "title": "The KOSA Internet Censorship Bill Just Passed the Senate (eff.org)",
+        "rank": "606"
+    },
+    {
+        "URL": "https://www.nature.com/articles/s41565-024-01724-z",
+        "title": "A quantum sensor for atomic-scale electric and magnetic fields (nature.com)",
+        "rank": "607"
+    },
+    {
+        "URL": "https://www.magiclasso.co/insights/dear-safari/",
+        "title": "Dear Safari, Things I Hate About You (magiclasso.co)",
+        "rank": "608"
+    },
+    {
+        "URL": "https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/",
+        "title": "Oshit: Seven Deadly Sins of Bad Open Source Research (bellingcat.com)",
+        "rank": "609"
+    },
+    {
+        "URL": "https://sherwood.news/tech/companies-hoarding-nvidia-gpu-chips-meta-tesla/",
+        "title": "Four co's are hoarding billions worth of Nvidia GPU chips. Meta has 350K of them (sherwood.news)",
+        "rank": "610"
+    },
+    {
+        "URL": "https://airmail.news/issues/2024-7-27/the-oracle-of-silicon-valley",
+        "title": "Ren\u00e9 Girard, the Oracle of Silicon Valley (airmail.news)",
+        "rank": "611"
+    },
+    {
+        "URL": "https://www.cnbc.com/2024/07/30/amd-earnings-report-q2-2024.html",
+        "title": "AMD says data center sales more than doubled in a year (cnbc.com)",
+        "rank": "612"
+    },
+    {
+        "URL": "https://worldbuilding.stackexchange.com/questions/260342/what-can-a-time-traveler-use-to-generate-an-encryption-key-to-encrypt-informatio",
+        "title": "How can a time traveler encrypt info so it's only decryptable after a given date (worldbuilding.stackexchange.com)",
+        "rank": "613"
+    },
+    {
+        "URL": "https://www.wdtn.com/news/business/ap-business/ap-white-house-says-no-need-to-restrict-open-source-artificial-intelligence-at-least-for-now/",
+        "title": "White House says no need to restrict 'open-source' AI at least for now (wdtn.com)",
+        "rank": "614"
+    },
+    {
+        "URL": "https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking",
+        "title": "The Four Theories of Truth as a Method for Critical Thinking (imfeld.dev)",
+        "rank": "615"
+    },
+    {
+        "URL": "https://www.eurogamer.net/braid-anniversary-edition-sold-like-dog-s-says-creator-jonathan-blow",
+        "title": "Braid: Anniversary Edition \"sold like dog s***\", says creator Jonathan Blow (eurogamer.net)",
+        "rank": "616"
+    },
+    {
+        "URL": "https://www.phoronix.com/review/amd-ryzen-ai-9-hx-370",
+        "title": "AMD Ryzen AI 9 HX 370: Linux Benchmarks (phoronix.com)",
+        "rank": "617"
+    },
+    {
+        "URL": "https://tidyfirst.substack.com/p/the-documentation-tradeoff",
+        "title": "The Documentation Tradeoff (tidyfirst.substack.com)",
+        "rank": "618"
+    },
+    {
+        "URL": "https://www.techspot.com/news/103830-linus-torvalds-worries-risc-v-repeat-same-mistakes.html",
+        "title": "Linus Torvalds worries RISC-V repeats mistakes of earlier architectures (techspot.com)",
+        "rank": "619"
+    },
+    {
+        "URL": "https://spotapot.vercel.app",
+        "title": "Show HN: I made a porta potty finder for tradesmen (spotapot.vercel.app)",
+        "rank": "620"
+    },
+    {
+        "URL": "https://github.com/Owez/yark",
+        "title": "Yark: YouTube Archiver with Offline UI (github.com/owez)",
+        "rank": "621"
+    },
+    {
+        "URL": "https://pieeg.com/news/low-cost-open-source-active-electrode-to-measure-eeg/",
+        "title": "Low-cost open-source active electrode to measure EEG (pieeg.com)",
+        "rank": "622"
+    },
+    {
+        "URL": "https://www.justinmath.com/the-greatest-breakthrough-in-the-science-of-education-over-the-last-century/",
+        "title": "The Greatest Breakthrough in the Science of Education over the Last Century (justinmath.com)",
+        "rank": "623"
+    },
+    {
+        "URL": "https://web.archive.org/web/20061023112233/http://software.silicon.com/security/0,39024655,39163277,00.htm",
+        "title": "Microsoft backs down over rivals' Vista access (2006) (archive.org)",
+        "rank": "624"
+    },
+    {
+        "URL": "https://evanp.me/2024/07/26/health-update/",
+        "title": "ActivityPub's Evan Prodromou (currently developing E2EE) hit by truck:( (evanp.me)",
+        "rank": "625"
+    },
+    {
+        "URL": "https://undo.io/products/udb",
+        "title": "UndoDB Travel Debugging for C/C++ (undo.io)",
+        "rank": "626"
+    },
+    {
+        "URL": "https://www.theguardian.com/commentisfree/article/2024/jul/27/noise-pollution-use-headphones",
+        "title": "Do you mind listening to that with headphones? (theguardian.com)",
+        "rank": "627"
+    },
+    {
+        "URL": "https://fzakaria.com/2024/07/28/nixos-option-inspection.html",
+        "title": "NixOS Option Inspection (fzakaria.com)",
+        "rank": "628"
+    },
+    {
+        "URL": "https://www.midjourney.com/updates/version-6-1",
+        "title": "Midjourney v6.1 (midjourney.com)",
+        "rank": "629"
+    },
+    {
+        "URL": "https://github.com/pypa/setuptools/issues/4519",
+        "title": "Some packages are no longer installable after test command is removed (github.com/pypa)",
+        "rank": "630"
+    },
+    {
+        "URL": "https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai",
+        "title": "Musk's X under pressure from regulators over data harvesting for Grok AI (theguardian.com)",
+        "rank": "631"
+    },
+    {
+        "URL": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9000-launch-delay-due-to-typo-ryzen-7-9700x-ryzen-5-9600x-confirmed",
+        "title": "AMD may have delayed Ryzen 9000 launch due to a typo (tomshardware.com)",
+        "rank": "632"
+    },
+    {
+        "URL": "https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/",
+        "title": "From sci-fi to state law: California's plan to prevent AI catastrophe (arstechnica.com)",
+        "rank": "633"
+    },
+    {
+        "URL": "https://gnometerminator.blogspot.com/2015/09/whats-in-name.html",
+        "title": "Terminator: What's in a Name? (2015) (gnometerminator.blogspot.com)",
+        "rank": "634"
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=0kcDBe6AkQE",
+        "title": "PGP: The software that changed Internet Privacy and Cryptography (youtube.com)",
+        "rank": "635"
+    },
+    {
+        "URL": "https://github.com/keirf/greaseweazle",
+        "title": "Greaseweazle: Tools for accessing a floppy drive at the raw flux level (github.com/keirf)",
+        "rank": "636"
+    },
+    {
+        "URL": "https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/",
+        "title": "SpaceX in talks to land and recover Starship rocket off Australia's coast (reuters.com)",
+        "rank": "637"
+    },
+    {
+        "URL": "https://jacobin.com/2024/07/greece-six-day-workweek-mitsotakis",
+        "title": "Greece's Six-Day Workweek Is a Recipe for Disaster (jacobin.com)",
+        "rank": "638"
+    },
+    {
+        "URL": "https://leetsoftware.com/sqlite-vs-postgresql/",
+        "title": "SQLite vs. PostgreSQL (leetsoftware.com)",
+        "rank": "639"
+    },
+    {
+        "URL": "https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe",
+        "title": "A plot of all objects in the universe (2023) (kottke.org)",
+        "rank": "640"
+    },
+    {
+        "URL": "https://tecnica.substack.com/p/complex-systems-emerge-from-simple",
+        "title": "Complex systems emerge from simple rules (tecnica.substack.com)",
+        "rank": "641"
+    },
+    {
+        "URL": "https://old.reddit.com/r/selfhosted/comments/1ee95ps/local_library_has_decades_old_server_running_and/",
+        "title": "Local library has decades old server running,and they don't know what it's doing (reddit.com)",
+        "rank": "642"
+    },
+    {
+        "URL": "https://www.cnn.com/2024/07/28/health/alzheimer-blood-test-p-tau-217-wellness/index.html",
+        "title": "Alzheimer's blood test catches 90% of early dementia cases, study finds (cnn.com)",
+        "rank": "643"
+    },
+    {
+        "URL": "https://www.forbes.com/sites/andrewleahey/2024/07/26/a-threat-to-justice-the-pro-codes-act-would-copyright-the-law/",
+        "title": "A Threat to Justice\u00e2\u20ac\u201cThe Pro Codes Act Would Copyright the Law (forbes.com/sites/andrewleahey)",
+        "rank": "644"
+    },
+    {
+        "URL": "https://arstechnica.com/tech-policy/2024/07/low-income-homes-drop-internet-service-after-congress-kills-discount-program/",
+        "title": "Low-income homes drop Internet service after Congress kills discount program (arstechnica.com)",
+        "rank": "645"
+    },
+    {
+        "URL": "https://mashable.com/article/microsoft-crowdstrike-outage-millions-more-computers-affected",
+        "title": "Microsoft says CrowdStrike outage affected many more devices than reported (mashable.com)",
+        "rank": "646"
+    },
+    {
+        "URL": "https://www.theguardian.com/music/article/2024/jul/29/the-music-industry-is-engineering-artist-popularity-and-listeners-are-right-to-be-angry",
+        "title": "The music industry is engineering artist popularity (theguardian.com)",
+        "rank": "647"
+    }
+]
