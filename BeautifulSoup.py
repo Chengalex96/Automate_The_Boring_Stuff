@@ -18,33 +18,17 @@ soup = bs4.BeautifulSoup(res.content, "html.parser")
 # s = soup.find('div', class_='entry-content')
 # content = s.find_all('p')
 
-# The title tag of the page
-print(soup.title)
-# Output: <title>Hacker News</title>
 
-# The title of the page as string
-print(soup.title.string)
-# Output: Hacker News
+def getTemp(productUrl):
+    headers = {'User-Agent': 'Mozilla 5.0'} # Amazon requires headers
+    res = requests.get(productUrl, headers=headers)
+    res.raise_for_status()
 
-# All links in the page
-nb_links = len(soup.find_all("a"))
-print(f"There are {nb_links} links in this page")
-# Output: There are 231 links on this page
+    soup = bs4.BeautifulSoup(res.text, 'html.parser')
 
-# Text from the page
-print(soup.get_text())
-# Output:
-# Hacker News
-# Hacker News
-# new | past | comments | ask | show | jobs | submit
-# login
-# ...
+    elems = soup.select('#current_conditions-summary > p.myforecast-current-lrg')
 
-# def getAmazonPrice(productUrl):
-#     headers = {'User-Agent': 'Mozilla 5.0'} # Amazon requires headers
-#     res = requests.get(productUrl, headers=headers)
-#     res.raise_for_status()
+    return elems[0].text.strip()
 
-#     soup.select('')
-
-# price = getAmazonPrice('')
+temp = getTemp('https://forecast.weather.gov/MapClick.php?lat=36.37410569300005&lon=-119.27022999999997')
+print('The temperature is ' + temp)
