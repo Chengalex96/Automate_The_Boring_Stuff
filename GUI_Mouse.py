@@ -11,7 +11,7 @@ width, height = pyautogui.size()
 
 print(pyautogui.position())
 
-# Absolute positon
+# Absolute positon, theres also dragto and reldrag
 pyautogui.moveTo(10,10, duration = 1.5) # gradually move with duration
 
 # relative position
@@ -25,7 +25,7 @@ print(pyautogui.position()) # 310, 10
 
 pyautogui.click(310, 10) # dont need arguments for click
 
-# pyautogui.doubleClick(310, 10)
+# pyautogui.doubleClick(310, 10), middleclick, etc.
 
-# In terminal: 
+# Display curent position live, ctrl+c to quit
 pyautogui.displayMousePosition()
