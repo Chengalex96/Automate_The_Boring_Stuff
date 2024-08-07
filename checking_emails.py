@@ -6,8 +6,8 @@ import imapclient
 import pyzmail
 
 conn = imapclient.IMAPClient('imap-mail.outlook.com', ssl=True) # Enter domain
-email = 'theweebkage@hotmail.com'
-password = 'Abcdkc001'
+email = 'email@hotmail.com'
+password = '######'
 
 print(conn.login(email, password))
 
